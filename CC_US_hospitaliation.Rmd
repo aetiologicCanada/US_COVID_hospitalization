@@ -1,0 +1,184 @@
+---
+title: "Untitled"
+author: "RCJ"
+date: "03/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readr)
+library(janitor)
+library(MMWRweek)
+
+```
+Caroline asked:
+
+"_If you can find infection:hospitalization rates that are in the same places as vaccination rates by age , or case:hosp numbers, that would be really useful."_
+
+## Hospitalization
+
+```{r}
+# The data are acquired from here:  
+```
+
+These data (COVID hospitalization rates/10^6 population by US states are acquired from "https://gis.cdc.gov/grasp/COVIDNet/COVID19_3.html".  
+There is a download data button which povides a csv file. I can't see the filename, so I can't pull it directly, but I have downloaded it manually and placed it in the 'data' folder with name:
+
+```{r}
+fs::dir_info("data") %>% select(path) -> infile
+print(infile$path)
+
+```
+
+Note that the file has problems. 
+
+1) There are different kinds of data in this CSV file - some are 'micro-data' a record for a specific race/age/sex/state/week and then there are summary records, all mixed in together. 
+2) The date fields for some of the summary records are wrong, so, approach carefully. 
+3) Frustratingly, there are some textual notes both in the top two lines and at the bottom of the csv file. It is easy to remove the top two lines, and start with the variable name list in row 3, but the length of this file will change across iterations, so.... we needed something more sophisticated. The boundary between end of the data and start of the notes is a line consisteing only of the string "Disclaimer" and a blank line before that. 
+To not read in these notes into the dataset, I find that 'disclaimer' string, find the associated line number, and read the csv up to 2 lines before the "Disclaimer" line.  Not perfect, but... good enough. 
+
+NB: If they change that string, this will fail, but I think this is likely to be a stable solution if the dataset is updated.
+
+## Data Wrangling
+
+### The file is `r infile$path` and the project path is `r here::here()`
+
+### Find the bottom of the data
+
+
+```{r}
+# fidling with the Disclaimer line
+result <- system2(command = "grep",
+        args=c(paste('-n Disclaimer ',   infile$path)),
+        stdout = TRUE)
+
+disclaimer_line_number = as.numeric(
+  str_sub(result, 1, str_locate(result, ":")-1)[1]
+)
+
+```
+
+We stop reading the data at row `r disclaimer_line_number`.
+
+### Read the file
+
+```{r}
+rawdata <- readr::read_csv(here::here("data/COVID-19Surveillance_All_Data.csv"),
+                           skip=2,
+                           n_max=disclaimer_line_number-2-3,
+   # explainer - Disclaimer line begins some end-notes in file
+   # take 2 lines off to get to last data line, and 
+   # take 3 lines off the top for header-notes and the column headers.
+   # check this works in the future. 
+   
+                           col_types=c("ccciicccdd")
+                           ) %>% 
+  janitor::clean_names()
+
+```
+
+### The problem with dates.
+
+There are some summary records - distinguished by is.na for cumulative-rate and/or weekly rate.  The imputation of dates from the mmwr_year and mmwr_week variables fails for these records, so, we remove these records. 
+
+```{r}
+
+derived_2 <- rawdata %>%
+  filter(!is.na(cumulative_rate),!is.na(weekly_rate)) %>%  
+  mutate(
+    derived_date = 
+      lubridate::make_date(year = mmwr_year, month = 1,day = 1)+
+      lubridate::days((mmwr_week-1)*7)+1-1
+  )
+```
+
+### Cross-checking
+
+The working dataset has `r nrow(derived_2) ` records with variable names:
+`r names(rawdata)`. 
+
+That was more work than I wanted.
+
+### Working Datasets:
+
+The final step is to get at the 'right' type of records. The data consiss of two types of data - those which are summary records and those which are completely disaggregated.  We want two dataset: one with the state, year, week, and weekly rate, collapsed across age-groups,and race. We call this file: 'working_data_no_ageg'. We also generate an age-structured file, 'working_data_age_group'.
+
+
+
+```{r}
+derived_2 %>% 
+  filter(str_detect(age_category, 'Overall'),
+         str_detect(race,         'Overall'),
+         str_detect(sex,          'Overall'),
+         !str_detect(catchment,          'Entire')
+       ) -> working_dataset_no_ageg
+
+desired_age_groups = "0-4 yr|5-11|12-17 yr|18-29 yr|30-39 yr|40-49 yr|50-64 yr|65-74 yr|75-84 yr|85+" 
+
+derived_2 %>% 
+  filter(str_detect(age_category,desired_age_groups),
+         str_detect(sex,          'Overall'),
+         !str_detect(catchment,          'Entire')
+       ) -> working_dataset_age_group
+
+```
+
+The age-collapsed working dataset has `r nrow(working_dataset_no_ageg)` observations. The age-stratified (non-overlapping age-groups) file has
+ `r nrow(working_dataset_age_group)` observations. 
+ 
+ The non-age-group-ed working dataset should consist of one record per catchment/state per week.  Let's check:
+
+```{r}
+working_dataset_no_ageg %>% 
+  group_by(derived_date, catchment) %>% tally() %>% 
+  ggplot()+
+  geom_point(aes(derived_date, y=as.factor(n), color=catchment), size=.1)+
+  facet_wrap(~catchment, ncol=3)
+```
+
+This just shows me that the data are continuous within each state with no evident gaps. The age-group-specific file will 
+
+
+```{r}
+working_dataset_age_group %>% 
+  group_by(derived_date, catchment) %>% tally() %>% 
+  ggplot()+
+  geom_point(aes(derived_date, y=as.factor(n), color=catchment), size=.1)+
+  facet_wrap(~catchment, ncol=3)
+```
+
+This is what is expected - 10 non-overlapping age-groups for each state, each week. 
+
+### Age-groups
+
+The distinct age-groups are:
+`r unique(working_dataset_age_group$age_category)`
+
+### Quick Results
+
+Let's look at age-collapsed weekly rates, by state for COVID+ hospitalizations:
+
+```{r}
+working_dataset %>% ggplot(aes(x=derived_date, y=weekly_rate))+
+  geom_line(aes(color=catchment))+
+  facet_wrap(~catchment, ncol=2)+
+  guides(color="none")+
+  labs(
+    title="CDC Weekly COVID+ Hospitalization Rate",
+    subtitle = "( per 10^6 population)"
+  )
+
+
+```
+
+## Write it out
+
+```{r}
+working_dataset_no_ageg %>% write_csv(here::here("data/US_weekly_hospitalization_CoVpos_no_age_groups.csv"))
+
+working_dataset_age_group %>% 
+  write_csv(here::here("data/US_weekly_hospitalization_CoVpos_age_groups.csv"))
+```
+

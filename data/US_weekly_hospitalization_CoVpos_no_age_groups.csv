@@ -1,0 +1,1023 @@
+catchment,network,year,mmwr_year,mmwr_week,age_category,sex,race,cumulative_rate,weekly_rate,derived_date
+Iowa,IHSP,2020-21,2020,10,Overall,Overall,Overall,0,0,2020-03-04
+Tennessee,EIP,2020-21,2020,10,Overall,Overall,Overall,0.1,0.1,2020-03-04
+Utah,IHSP,2020-21,2020,10,Overall,Overall,Overall,0,0,2020-03-04
+Maryland,EIP,2020-21,2020,10,Overall,Overall,Overall,0.1,0.1,2020-03-04
+Michigan,IHSP,2020-21,2020,10,Overall,Overall,Overall,0.1,0.1,2020-03-04
+Minnesota,EIP,2020-21,2020,10,Overall,Overall,Overall,0,0,2020-03-04
+New Mexico,EIP,2020-21,2020,10,Overall,Overall,Overall,0,0,2020-03-04
+New York,EIP,2020-21,2020,10,Overall,Overall,Overall,0.1,0.1,2020-03-04
+Ohio,IHSP,2020-21,2020,10,Overall,Overall,Overall,0,0,2020-03-04
+Oregon,EIP,2020-21,2020,10,Overall,Overall,Overall,0.1,0.1,2020-03-04
+Georgia,EIP,2020-21,2020,10,Overall,Overall,Overall,0.4,0.4,2020-03-04
+California,EIP,2020-21,2020,10,Overall,Overall,Overall,0.2,0.2,2020-03-04
+Colorado,EIP,2020-21,2020,10,Overall,Overall,Overall,0.1,0.1,2020-03-04
+Connecticut,EIP,2020-21,2020,10,Overall,Overall,Overall,0,0,2020-03-04
+Connecticut,EIP,2020-21,2020,11,Overall,Overall,Overall,1,1,2020-03-11
+Colorado,EIP,2020-21,2020,11,Overall,Overall,Overall,1,0.9,2020-03-11
+California,EIP,2020-21,2020,11,Overall,Overall,Overall,0.9,0.7,2020-03-11
+Georgia,EIP,2020-21,2020,11,Overall,Overall,Overall,2.5,2.1,2020-03-11
+Oregon,EIP,2020-21,2020,11,Overall,Overall,Overall,0.5,0.5,2020-03-11
+Ohio,IHSP,2020-21,2020,11,Overall,Overall,Overall,0.4,0.3,2020-03-11
+New York,EIP,2020-21,2020,11,Overall,Overall,Overall,0.6,0.6,2020-03-11
+New Mexico,EIP,2020-21,2020,11,Overall,Overall,Overall,0.3,0.3,2020-03-11
+Minnesota,EIP,2020-21,2020,11,Overall,Overall,Overall,0.1,0.1,2020-03-11
+Michigan,IHSP,2020-21,2020,11,Overall,Overall,Overall,0.1,0,2020-03-11
+Maryland,EIP,2020-21,2020,11,Overall,Overall,Overall,0.3,0.3,2020-03-11
+Utah,IHSP,2020-21,2020,11,Overall,Overall,Overall,0.2,0.2,2020-03-11
+Tennessee,EIP,2020-21,2020,11,Overall,Overall,Overall,0.7,0.6,2020-03-11
+Iowa,IHSP,2020-21,2020,11,Overall,Overall,Overall,0,0,2020-03-11
+Iowa,IHSP,2020-21,2020,12,Overall,Overall,Overall,0.8,0.8,2020-03-18
+Tennessee,EIP,2020-21,2020,12,Overall,Overall,Overall,3.2,2.5,2020-03-18
+Utah,IHSP,2020-21,2020,12,Overall,Overall,Overall,1.2,1,2020-03-18
+Maryland,EIP,2020-21,2020,12,Overall,Overall,Overall,2.2,1.9,2020-03-18
+Michigan,IHSP,2020-21,2020,12,Overall,Overall,Overall,4.5,4.4,2020-03-18
+Minnesota,EIP,2020-21,2020,12,Overall,Overall,Overall,0.9,0.8,2020-03-18
+New Mexico,EIP,2020-21,2020,12,Overall,Overall,Overall,0.7,0.4,2020-03-18
+New York,EIP,2020-21,2020,12,Overall,Overall,Overall,2.9,2.2,2020-03-18
+Ohio,IHSP,2020-21,2020,12,Overall,Overall,Overall,1.6,1.2,2020-03-18
+Oregon,EIP,2020-21,2020,12,Overall,Overall,Overall,2.2,1.6,2020-03-18
+Georgia,EIP,2020-21,2020,12,Overall,Overall,Overall,10.2,7.7,2020-03-18
+California,EIP,2020-21,2020,12,Overall,Overall,Overall,3,2.1,2020-03-18
+Colorado,EIP,2020-21,2020,12,Overall,Overall,Overall,6.1,5.1,2020-03-18
+Connecticut,EIP,2020-21,2020,12,Overall,Overall,Overall,5.5,4.5,2020-03-18
+Connecticut,EIP,2020-21,2020,13,Overall,Overall,Overall,25.3,19.8,2020-03-25
+Colorado,EIP,2020-21,2020,13,Overall,Overall,Overall,21.5,15.4,2020-03-25
+California,EIP,2020-21,2020,13,Overall,Overall,Overall,6.6,3.6,2020-03-25
+Georgia,EIP,2020-21,2020,13,Overall,Overall,Overall,23.6,13.5,2020-03-25
+Oregon,EIP,2020-21,2020,13,Overall,Overall,Overall,6.1,3.9,2020-03-25
+Ohio,IHSP,2020-21,2020,13,Overall,Overall,Overall,4.6,3.1,2020-03-25
+New York,EIP,2020-21,2020,13,Overall,Overall,Overall,9.3,6.5,2020-03-25
+New Mexico,EIP,2020-21,2020,13,Overall,Overall,Overall,2.2,1.5,2020-03-25
+Minnesota,EIP,2020-21,2020,13,Overall,Overall,Overall,2.9,2,2020-03-25
+Michigan,IHSP,2020-21,2020,13,Overall,Overall,Overall,19,14.6,2020-03-25
+Maryland,EIP,2020-21,2020,13,Overall,Overall,Overall,9.8,7.5,2020-03-25
+Utah,IHSP,2020-21,2020,13,Overall,Overall,Overall,3.3,2.1,2020-03-25
+Tennessee,EIP,2020-21,2020,13,Overall,Overall,Overall,11.4,8.1,2020-03-25
+Iowa,IHSP,2020-21,2020,13,Overall,Overall,Overall,0.8,0,2020-03-25
+Iowa,IHSP,2020-21,2020,14,Overall,Overall,Overall,1.5,0.8,2020-04-01
+Tennessee,EIP,2020-21,2020,14,Overall,Overall,Overall,20.3,8.9,2020-04-01
+Utah,IHSP,2020-21,2020,14,Overall,Overall,Overall,5.7,2.4,2020-04-01
+Maryland,EIP,2020-21,2020,14,Overall,Overall,Overall,21.4,11.6,2020-04-01
+Michigan,IHSP,2020-21,2020,14,Overall,Overall,Overall,41.3,22.2,2020-04-01
+Minnesota,EIP,2020-21,2020,14,Overall,Overall,Overall,5.8,2.9,2020-04-01
+New Mexico,EIP,2020-21,2020,14,Overall,Overall,Overall,4.7,2.6,2020-04-01
+New York,EIP,2020-21,2020,14,Overall,Overall,Overall,18.7,9.4,2020-04-01
+Ohio,IHSP,2020-21,2020,14,Overall,Overall,Overall,9,4.3,2020-04-01
+Oregon,EIP,2020-21,2020,14,Overall,Overall,Overall,10.1,4.1,2020-04-01
+Georgia,EIP,2020-21,2020,14,Overall,Overall,Overall,33.6,9.9,2020-04-01
+California,EIP,2020-21,2020,14,Overall,Overall,Overall,10.3,3.7,2020-04-01
+Colorado,EIP,2020-21,2020,14,Overall,Overall,Overall,39.8,18.3,2020-04-01
+Connecticut,EIP,2020-21,2020,14,Overall,Overall,Overall,61.1,35.8,2020-04-01
+Connecticut,EIP,2020-21,2020,15,Overall,Overall,Overall,101.9,40.9,2020-04-08
+Colorado,EIP,2020-21,2020,15,Overall,Overall,Overall,55,15.2,2020-04-08
+California,EIP,2020-21,2020,15,Overall,Overall,Overall,14.3,4,2020-04-08
+Georgia,EIP,2020-21,2020,15,Overall,Overall,Overall,41.4,7.8,2020-04-08
+Oregon,EIP,2020-21,2020,15,Overall,Overall,Overall,13,2.8,2020-04-08
+Ohio,IHSP,2020-21,2020,15,Overall,Overall,Overall,12.7,3.8,2020-04-08
+New York,EIP,2020-21,2020,15,Overall,Overall,Overall,25.5,6.8,2020-04-08
+New Mexico,EIP,2020-21,2020,15,Overall,Overall,Overall,7.3,2.6,2020-04-08
+Minnesota,EIP,2020-21,2020,15,Overall,Overall,Overall,10.1,4.3,2020-04-08
+Michigan,IHSP,2020-21,2020,15,Overall,Overall,Overall,56.7,15.4,2020-04-08
+Maryland,EIP,2020-21,2020,15,Overall,Overall,Overall,36.4,15,2020-04-08
+Tennessee,EIP,2020-21,2020,15,Overall,Overall,Overall,25.4,5.1,2020-04-08
+Utah,IHSP,2020-21,2020,15,Overall,Overall,Overall,8.7,3,2020-04-08
+Iowa,IHSP,2020-21,2020,15,Overall,Overall,Overall,9.9,8.4,2020-04-08
+Iowa,IHSP,2020-21,2020,16,Overall,Overall,Overall,28.2,18.3,2020-04-15
+Tennessee,EIP,2020-21,2020,16,Overall,Overall,Overall,30.1,4.7,2020-04-15
+Utah,IHSP,2020-21,2020,16,Overall,Overall,Overall,12.5,3.8,2020-04-15
+Maryland,EIP,2020-21,2020,16,Overall,Overall,Overall,55,18.6,2020-04-15
+Michigan,IHSP,2020-21,2020,16,Overall,Overall,Overall,69.6,12.9,2020-04-15
+Minnesota,EIP,2020-21,2020,16,Overall,Overall,Overall,16,5.8,2020-04-15
+New Mexico,EIP,2020-21,2020,16,Overall,Overall,Overall,11.9,4.6,2020-04-15
+New York,EIP,2020-21,2020,16,Overall,Overall,Overall,31.4,5.9,2020-04-15
+Ohio,IHSP,2020-21,2020,16,Overall,Overall,Overall,17.3,4.6,2020-04-15
+Oregon,EIP,2020-21,2020,16,Overall,Overall,Overall,16.1,3.1,2020-04-15
+Georgia,EIP,2020-21,2020,16,Overall,Overall,Overall,49.3,7.9,2020-04-15
+California,EIP,2020-21,2020,16,Overall,Overall,Overall,17.8,3.5,2020-04-15
+Colorado,EIP,2020-21,2020,16,Overall,Overall,Overall,70.1,15.1,2020-04-15
+Connecticut,EIP,2020-21,2020,16,Overall,Overall,Overall,141.9,39.9,2020-04-15
+Connecticut,EIP,2020-21,2020,17,Overall,Overall,Overall,173.5,31.7,2020-04-22
+Colorado,EIP,2020-21,2020,17,Overall,Overall,Overall,83.8,13.8,2020-04-22
+California,EIP,2020-21,2020,17,Overall,Overall,Overall,20,2.2,2020-04-22
+Georgia,EIP,2020-21,2020,17,Overall,Overall,Overall,56,6.8,2020-04-22
+Oregon,EIP,2020-21,2020,17,Overall,Overall,Overall,18.7,2.6,2020-04-22
+Ohio,IHSP,2020-21,2020,17,Overall,Overall,Overall,22.6,5.2,2020-04-22
+New York,EIP,2020-21,2020,17,Overall,Overall,Overall,37.9,6.4,2020-04-22
+New Mexico,EIP,2020-21,2020,17,Overall,Overall,Overall,15.7,3.8,2020-04-22
+Minnesota,EIP,2020-21,2020,17,Overall,Overall,Overall,23.2,7.2,2020-04-22
+Michigan,IHSP,2020-21,2020,17,Overall,Overall,Overall,76.6,7,2020-04-22
+Maryland,EIP,2020-21,2020,17,Overall,Overall,Overall,74.8,19.8,2020-04-22
+Utah,IHSP,2020-21,2020,17,Overall,Overall,Overall,17.4,4.9,2020-04-22
+Tennessee,EIP,2020-21,2020,17,Overall,Overall,Overall,35.1,5,2020-04-22
+Iowa,IHSP,2020-21,2020,17,Overall,Overall,Overall,54.9,26.7,2020-04-22
+Iowa,IHSP,2020-21,2020,18,Overall,Overall,Overall,78.5,23.6,2020-04-29
+Tennessee,EIP,2020-21,2020,18,Overall,Overall,Overall,40.4,5.3,2020-04-29
+Utah,IHSP,2020-21,2020,18,Overall,Overall,Overall,21.5,4.1,2020-04-29
+Maryland,EIP,2020-21,2020,18,Overall,Overall,Overall,94.6,19.8,2020-04-29
+Michigan,IHSP,2020-21,2020,18,Overall,Overall,Overall,81.1,4.5,2020-04-29
+Minnesota,EIP,2020-21,2020,18,Overall,Overall,Overall,33.4,10.2,2020-04-29
+New Mexico,EIP,2020-21,2020,18,Overall,Overall,Overall,21,5.3,2020-04-29
+New York,EIP,2020-21,2020,18,Overall,Overall,Overall,43,5.2,2020-04-29
+Ohio,IHSP,2020-21,2020,18,Overall,Overall,Overall,28.6,6,2020-04-29
+Oregon,EIP,2020-21,2020,18,Overall,Overall,Overall,20.4,1.6,2020-04-29
+Georgia,EIP,2020-21,2020,18,Overall,Overall,Overall,62.2,6.1,2020-04-29
+California,EIP,2020-21,2020,18,Overall,Overall,Overall,22.5,2.5,2020-04-29
+Colorado,EIP,2020-21,2020,18,Overall,Overall,Overall,95.5,11.6,2020-04-29
+Connecticut,EIP,2020-21,2020,18,Overall,Overall,Overall,201.9,28.4,2020-04-29
+Connecticut,EIP,2020-21,2020,19,Overall,Overall,Overall,226,24.1,2020-05-06
+Colorado,EIP,2020-21,2020,19,Overall,Overall,Overall,103.9,8.5,2020-05-06
+California,EIP,2020-21,2020,19,Overall,Overall,Overall,24.9,2.4,2020-05-06
+Georgia,EIP,2020-21,2020,19,Overall,Overall,Overall,67.3,5.1,2020-05-06
+Oregon,EIP,2020-21,2020,19,Overall,Overall,Overall,21.5,1.1,2020-05-06
+Ohio,IHSP,2020-21,2020,19,Overall,Overall,Overall,33.5,5,2020-05-06
+New York,EIP,2020-21,2020,19,Overall,Overall,Overall,47.9,4.9,2020-05-06
+New Mexico,EIP,2020-21,2020,19,Overall,Overall,Overall,26.8,5.8,2020-05-06
+Minnesota,EIP,2020-21,2020,19,Overall,Overall,Overall,43.7,10.3,2020-05-06
+Michigan,IHSP,2020-21,2020,19,Overall,Overall,Overall,83.9,2.8,2020-05-06
+Maryland,EIP,2020-21,2020,19,Overall,Overall,Overall,112.3,17.6,2020-05-06
+Utah,IHSP,2020-21,2020,19,Overall,Overall,Overall,25.1,3.6,2020-05-06
+Tennessee,EIP,2020-21,2020,19,Overall,Overall,Overall,45.8,5.4,2020-05-06
+Iowa,IHSP,2020-21,2020,19,Overall,Overall,Overall,89.2,10.7,2020-05-06
+Iowa,IHSP,2020-21,2020,20,Overall,Overall,Overall,100.6,11.4,2020-05-13
+Tennessee,EIP,2020-21,2020,20,Overall,Overall,Overall,49.1,3.3,2020-05-13
+Utah,IHSP,2020-21,2020,20,Overall,Overall,Overall,28.4,3.4,2020-05-13
+Maryland,EIP,2020-21,2020,20,Overall,Overall,Overall,128.2,15.9,2020-05-13
+Michigan,IHSP,2020-21,2020,20,Overall,Overall,Overall,87,3.1,2020-05-13
+Minnesota,EIP,2020-21,2020,20,Overall,Overall,Overall,54.9,11.2,2020-05-13
+New Mexico,EIP,2020-21,2020,20,Overall,Overall,Overall,32.9,6.1,2020-05-13
+New York,EIP,2020-21,2020,20,Overall,Overall,Overall,54.5,6.6,2020-05-13
+Ohio,IHSP,2020-21,2020,20,Overall,Overall,Overall,38,4.4,2020-05-13
+Oregon,EIP,2020-21,2020,20,Overall,Overall,Overall,22.6,1.1,2020-05-13
+Georgia,EIP,2020-21,2020,20,Overall,Overall,Overall,72.5,5.2,2020-05-13
+California,EIP,2020-21,2020,20,Overall,Overall,Overall,27,2.1,2020-05-13
+Colorado,EIP,2020-21,2020,20,Overall,Overall,Overall,111.6,7.6,2020-05-13
+Connecticut,EIP,2020-21,2020,20,Overall,Overall,Overall,244,18,2020-05-13
+Connecticut,EIP,2020-21,2020,21,Overall,Overall,Overall,257.4,13.4,2020-05-20
+Colorado,EIP,2020-21,2020,21,Overall,Overall,Overall,118.7,7.1,2020-05-20
+California,EIP,2020-21,2020,21,Overall,Overall,Overall,29.2,2.2,2020-05-20
+Georgia,EIP,2020-21,2020,21,Overall,Overall,Overall,77.5,5,2020-05-20
+Oregon,EIP,2020-21,2020,21,Overall,Overall,Overall,23.9,1.3,2020-05-20
+Ohio,IHSP,2020-21,2020,21,Overall,Overall,Overall,42.8,4.9,2020-05-20
+New York,EIP,2020-21,2020,21,Overall,Overall,Overall,60.8,6.3,2020-05-20
+New Mexico,EIP,2020-21,2020,21,Overall,Overall,Overall,38.2,5.4,2020-05-20
+Minnesota,EIP,2020-21,2020,21,Overall,Overall,Overall,67.4,12.5,2020-05-20
+Michigan,IHSP,2020-21,2020,21,Overall,Overall,Overall,88.8,1.8,2020-05-20
+Maryland,EIP,2020-21,2020,21,Overall,Overall,Overall,142.4,14.1,2020-05-20
+Utah,IHSP,2020-21,2020,21,Overall,Overall,Overall,34.2,5.8,2020-05-20
+Tennessee,EIP,2020-21,2020,21,Overall,Overall,Overall,53.9,4.8,2020-05-20
+Iowa,IHSP,2020-21,2020,21,Overall,Overall,Overall,112.8,12.2,2020-05-20
+Iowa,IHSP,2020-21,2020,22,Overall,Overall,Overall,118.1,5.3,2020-05-27
+Tennessee,EIP,2020-21,2020,22,Overall,Overall,Overall,58.7,4.9,2020-05-27
+Utah,IHSP,2020-21,2020,22,Overall,Overall,Overall,38.4,4.2,2020-05-27
+Maryland,EIP,2020-21,2020,22,Overall,Overall,Overall,154.3,12,2020-05-27
+Michigan,IHSP,2020-21,2020,22,Overall,Overall,Overall,90.6,1.8,2020-05-27
+Minnesota,EIP,2020-21,2020,22,Overall,Overall,Overall,77.8,10.4,2020-05-27
+New Mexico,EIP,2020-21,2020,22,Overall,Overall,Overall,42.2,4,2020-05-27
+New York,EIP,2020-21,2020,22,Overall,Overall,Overall,65.8,5,2020-05-27
+Ohio,IHSP,2020-21,2020,22,Overall,Overall,Overall,47.9,5.1,2020-05-27
+Oregon,EIP,2020-21,2020,22,Overall,Overall,Overall,24.7,0.8,2020-05-27
+Georgia,EIP,2020-21,2020,22,Overall,Overall,Overall,82,4.5,2020-05-27
+California,EIP,2020-21,2020,22,Overall,Overall,Overall,31.6,2.5,2020-05-27
+Colorado,EIP,2020-21,2020,22,Overall,Overall,Overall,122.9,4.2,2020-05-27
+Connecticut,EIP,2020-21,2020,22,Overall,Overall,Overall,266,8.7,2020-05-27
+Connecticut,EIP,2020-21,2020,23,Overall,Overall,Overall,272.1,6.1,2020-06-03
+Colorado,EIP,2020-21,2020,23,Overall,Overall,Overall,125.4,2.4,2020-06-03
+California,EIP,2020-21,2020,23,Overall,Overall,Overall,34.5,2.8,2020-06-03
+Georgia,EIP,2020-21,2020,23,Overall,Overall,Overall,86.7,4.8,2020-06-03
+Oregon,EIP,2020-21,2020,23,Overall,Overall,Overall,26.1,1.4,2020-06-03
+Ohio,IHSP,2020-21,2020,23,Overall,Overall,Overall,50.9,3,2020-06-03
+New York,EIP,2020-21,2020,23,Overall,Overall,Overall,68.5,2.7,2020-06-03
+New Mexico,EIP,2020-21,2020,23,Overall,Overall,Overall,46.8,4.6,2020-06-03
+Minnesota,EIP,2020-21,2020,23,Overall,Overall,Overall,84.4,6.6,2020-06-03
+Michigan,IHSP,2020-21,2020,23,Overall,Overall,Overall,91.3,0.7,2020-06-03
+Maryland,EIP,2020-21,2020,23,Overall,Overall,Overall,163.3,9,2020-06-03
+Tennessee,EIP,2020-21,2020,23,Overall,Overall,Overall,65,6.2,2020-06-03
+Utah,IHSP,2020-21,2020,23,Overall,Overall,Overall,43,4.6,2020-06-03
+Iowa,IHSP,2020-21,2020,23,Overall,Overall,Overall,123.4,5.3,2020-06-03
+Iowa,IHSP,2020-21,2020,24,Overall,Overall,Overall,128.8,5.3,2020-06-10
+Tennessee,EIP,2020-21,2020,24,Overall,Overall,Overall,70.9,5.9,2020-06-10
+Utah,IHSP,2020-21,2020,24,Overall,Overall,Overall,48.8,5.8,2020-06-10
+Maryland,EIP,2020-21,2020,24,Overall,Overall,Overall,169.8,6.5,2020-06-10
+Michigan,IHSP,2020-21,2020,24,Overall,Overall,Overall,91.8,0.5,2020-06-10
+Minnesota,EIP,2020-21,2020,24,Overall,Overall,Overall,89.7,5.3,2020-06-10
+New Mexico,EIP,2020-21,2020,24,Overall,Overall,Overall,50.4,3.7,2020-06-10
+New York,EIP,2020-21,2020,24,Overall,Overall,Overall,70.4,1.9,2020-06-10
+Ohio,IHSP,2020-21,2020,24,Overall,Overall,Overall,54,3.1,2020-06-10
+Oregon,EIP,2020-21,2020,24,Overall,Overall,Overall,27.3,1.1,2020-06-10
+Georgia,EIP,2020-21,2020,24,Overall,Overall,Overall,91.7,4.9,2020-06-10
+California,EIP,2020-21,2020,24,Overall,Overall,Overall,36.7,2.3,2020-06-10
+Colorado,EIP,2020-21,2020,24,Overall,Overall,Overall,127.3,1.9,2020-06-10
+Connecticut,EIP,2020-21,2020,24,Overall,Overall,Overall,275.6,3.4,2020-06-10
+Connecticut,EIP,2020-21,2020,25,Overall,Overall,Overall,277.7,2.2,2020-06-17
+Colorado,EIP,2020-21,2020,25,Overall,Overall,Overall,129.6,2.3,2020-06-17
+California,EIP,2020-21,2020,25,Overall,Overall,Overall,39.5,2.8,2020-06-17
+Georgia,EIP,2020-21,2020,25,Overall,Overall,Overall,98.2,6.5,2020-06-17
+Oregon,EIP,2020-21,2020,25,Overall,Overall,Overall,29.6,2.3,2020-06-17
+Ohio,IHSP,2020-21,2020,25,Overall,Overall,Overall,56.7,2.7,2020-06-17
+New York,EIP,2020-21,2020,25,Overall,Overall,Overall,72.3,1.9,2020-06-17
+New Mexico,EIP,2020-21,2020,25,Overall,Overall,Overall,52.8,2.3,2020-06-17
+Minnesota,EIP,2020-21,2020,25,Overall,Overall,Overall,94.3,4.6,2020-06-17
+Michigan,IHSP,2020-21,2020,25,Overall,Overall,Overall,92.5,0.7,2020-06-17
+Maryland,EIP,2020-21,2020,25,Overall,Overall,Overall,174.9,5.1,2020-06-17
+Utah,IHSP,2020-21,2020,25,Overall,Overall,Overall,55.4,6.6,2020-06-17
+Tennessee,EIP,2020-21,2020,25,Overall,Overall,Overall,77.1,6.2,2020-06-17
+Iowa,IHSP,2020-21,2020,25,Overall,Overall,Overall,131.1,2.3,2020-06-17
+Iowa,IHSP,2020-21,2020,26,Overall,Overall,Overall,135.6,4.6,2020-06-24
+Tennessee,EIP,2020-21,2020,26,Overall,Overall,Overall,84.4,7.3,2020-06-24
+Utah,IHSP,2020-21,2020,26,Overall,Overall,Overall,62.9,7.5,2020-06-24
+Maryland,EIP,2020-21,2020,26,Overall,Overall,Overall,178.9,3.9,2020-06-24
+Michigan,IHSP,2020-21,2020,26,Overall,Overall,Overall,93.3,0.7,2020-06-24
+Minnesota,EIP,2020-21,2020,26,Overall,Overall,Overall,98.2,3.9,2020-06-24
+New Mexico,EIP,2020-21,2020,26,Overall,Overall,Overall,55.4,2.6,2020-06-24
+New York,EIP,2020-21,2020,26,Overall,Overall,Overall,73.7,1.4,2020-06-24
+Ohio,IHSP,2020-21,2020,26,Overall,Overall,Overall,60.6,4,2020-06-24
+Oregon,EIP,2020-21,2020,26,Overall,Overall,Overall,31.9,2.2,2020-06-24
+Georgia,EIP,2020-21,2020,26,Overall,Overall,Overall,108.8,10.7,2020-06-24
+California,EIP,2020-21,2020,26,Overall,Overall,Overall,43.5,4,2020-06-24
+Colorado,EIP,2020-21,2020,26,Overall,Overall,Overall,132.3,2.7,2020-06-24
+Connecticut,EIP,2020-21,2020,26,Overall,Overall,Overall,279.2,1.5,2020-06-24
+Connecticut,EIP,2020-21,2020,27,Overall,Overall,Overall,281.1,1.9,2020-07-01
+Colorado,EIP,2020-21,2020,27,Overall,Overall,Overall,135.5,3.2,2020-07-01
+California,EIP,2020-21,2020,27,Overall,Overall,Overall,49.1,5.6,2020-07-01
+Georgia,EIP,2020-21,2020,27,Overall,Overall,Overall,126.2,17.3,2020-07-01
+Oregon,EIP,2020-21,2020,27,Overall,Overall,Overall,34.1,2.2,2020-07-01
+Ohio,IHSP,2020-21,2020,27,Overall,Overall,Overall,64.4,3.8,2020-07-01
+New York,EIP,2020-21,2020,27,Overall,Overall,Overall,75.2,1.5,2020-07-01
+New Mexico,EIP,2020-21,2020,27,Overall,Overall,Overall,59.9,4.5,2020-07-01
+Minnesota,EIP,2020-21,2020,27,Overall,Overall,Overall,102.7,4.5,2020-07-01
+Michigan,IHSP,2020-21,2020,27,Overall,Overall,Overall,94.2,1,2020-07-01
+Maryland,EIP,2020-21,2020,27,Overall,Overall,Overall,183.5,4.6,2020-07-01
+Tennessee,EIP,2020-21,2020,27,Overall,Overall,Overall,93,8.5,2020-07-01
+Utah,IHSP,2020-21,2020,27,Overall,Overall,Overall,71,8.1,2020-07-01
+Iowa,IHSP,2020-21,2020,27,Overall,Overall,Overall,141,5.3,2020-07-01
+Iowa,IHSP,2020-21,2020,28,Overall,Overall,Overall,150.1,9.1,2020-07-08
+Tennessee,EIP,2020-21,2020,28,Overall,Overall,Overall,107.3,14.3,2020-07-08
+Utah,IHSP,2020-21,2020,28,Overall,Overall,Overall,79.7,8.7,2020-07-08
+Maryland,EIP,2020-21,2020,28,Overall,Overall,Overall,188.7,5.2,2020-07-08
+Michigan,IHSP,2020-21,2020,28,Overall,Overall,Overall,95.2,1,2020-07-08
+Minnesota,EIP,2020-21,2020,28,Overall,Overall,Overall,107.6,5,2020-07-08
+New Mexico,EIP,2020-21,2020,28,Overall,Overall,Overall,68.2,8.3,2020-07-08
+New York,EIP,2020-21,2020,28,Overall,Overall,Overall,77.5,2.3,2020-07-08
+Ohio,IHSP,2020-21,2020,28,Overall,Overall,Overall,70,5.6,2020-07-08
+Oregon,EIP,2020-21,2020,28,Overall,Overall,Overall,37.8,3.7,2020-07-08
+Georgia,EIP,2020-21,2020,28,Overall,Overall,Overall,148.2,22,2020-07-08
+California,EIP,2020-21,2020,28,Overall,Overall,Overall,55.4,6.3,2020-07-08
+Colorado,EIP,2020-21,2020,28,Overall,Overall,Overall,140,4.4,2020-07-08
+Connecticut,EIP,2020-21,2020,28,Overall,Overall,Overall,283.9,2.9,2020-07-08
+Connecticut,EIP,2020-21,2020,29,Overall,Overall,Overall,285.6,1.7,2020-07-15
+Colorado,EIP,2020-21,2020,29,Overall,Overall,Overall,144.4,4.5,2020-07-15
+California,EIP,2020-21,2020,29,Overall,Overall,Overall,62.6,7.3,2020-07-15
+Georgia,EIP,2020-21,2020,29,Overall,Overall,Overall,170.3,22.1,2020-07-15
+Oregon,EIP,2020-21,2020,29,Overall,Overall,Overall,41,3.2,2020-07-15
+Ohio,IHSP,2020-21,2020,29,Overall,Overall,Overall,76,5.9,2020-07-15
+New York,EIP,2020-21,2020,29,Overall,Overall,Overall,79.7,2.1,2020-07-15
+New Mexico,EIP,2020-21,2020,29,Overall,Overall,Overall,76.5,8.2,2020-07-15
+Minnesota,EIP,2020-21,2020,29,Overall,Overall,Overall,113.8,6.2,2020-07-15
+Michigan,IHSP,2020-21,2020,29,Overall,Overall,Overall,97.6,2.4,2020-07-15
+Maryland,EIP,2020-21,2020,29,Overall,Overall,Overall,194.9,6.3,2020-07-15
+Utah,IHSP,2020-21,2020,29,Overall,Overall,Overall,87,7.3,2020-07-15
+Tennessee,EIP,2020-21,2020,29,Overall,Overall,Overall,121.5,14.3,2020-07-15
+Iowa,IHSP,2020-21,2020,29,Overall,Overall,Overall,156.2,6.1,2020-07-15
+Iowa,IHSP,2020-21,2020,30,Overall,Overall,Overall,163.1,6.9,2020-07-22
+Tennessee,EIP,2020-21,2020,30,Overall,Overall,Overall,134.2,12.7,2020-07-22
+Utah,IHSP,2020-21,2020,30,Overall,Overall,Overall,94.1,7.1,2020-07-22
+Maryland,EIP,2020-21,2020,30,Overall,Overall,Overall,202.7,7.8,2020-07-22
+Michigan,IHSP,2020-21,2020,30,Overall,Overall,Overall,99.8,2.2,2020-07-22
+Minnesota,EIP,2020-21,2020,30,Overall,Overall,Overall,120.2,6.4,2020-07-22
+New Mexico,EIP,2020-21,2020,30,Overall,Overall,Overall,83.8,7.3,2020-07-22
+New York,EIP,2020-21,2020,30,Overall,Overall,Overall,80.7,1.1,2020-07-22
+Ohio,IHSP,2020-21,2020,30,Overall,Overall,Overall,82.1,6.1,2020-07-22
+Oregon,EIP,2020-21,2020,30,Overall,Overall,Overall,43.5,2.6,2020-07-22
+Georgia,EIP,2020-21,2020,30,Overall,Overall,Overall,187.7,17.4,2020-07-22
+California,EIP,2020-21,2020,30,Overall,Overall,Overall,70.7,8.1,2020-07-22
+Colorado,EIP,2020-21,2020,30,Overall,Overall,Overall,148.1,3.7,2020-07-22
+Connecticut,EIP,2020-21,2020,30,Overall,Overall,Overall,288.2,2.7,2020-07-22
+Connecticut,EIP,2020-21,2020,31,Overall,Overall,Overall,290.5,2.3,2020-07-29
+Colorado,EIP,2020-21,2020,31,Overall,Overall,Overall,151.6,3.5,2020-07-29
+California,EIP,2020-21,2020,31,Overall,Overall,Overall,78.5,7.8,2020-07-29
+Georgia,EIP,2020-21,2020,31,Overall,Overall,Overall,201.8,14.2,2020-07-29
+Oregon,EIP,2020-21,2020,31,Overall,Overall,Overall,46.5,2.9,2020-07-29
+Ohio,IHSP,2020-21,2020,31,Overall,Overall,Overall,87.2,5.1,2020-07-29
+New York,EIP,2020-21,2020,31,Overall,Overall,Overall,82,1.3,2020-07-29
+New Mexico,EIP,2020-21,2020,31,Overall,Overall,Overall,88.5,4.7,2020-07-29
+Minnesota,EIP,2020-21,2020,31,Overall,Overall,Overall,127.2,7,2020-07-29
+Michigan,IHSP,2020-21,2020,31,Overall,Overall,Overall,102.2,2.4,2020-07-29
+Maryland,EIP,2020-21,2020,31,Overall,Overall,Overall,210.6,7.9,2020-07-29
+Utah,IHSP,2020-21,2020,31,Overall,Overall,Overall,100,5.9,2020-07-29
+Tennessee,EIP,2020-21,2020,31,Overall,Overall,Overall,144.5,10.3,2020-07-29
+Iowa,IHSP,2020-21,2020,31,Overall,Overall,Overall,172.2,9.1,2020-07-29
+Iowa,IHSP,2020-21,2020,32,Overall,Overall,Overall,180.6,8.4,2020-08-05
+Tennessee,EIP,2020-21,2020,32,Overall,Overall,Overall,154.6,10.1,2020-08-05
+Utah,IHSP,2020-21,2020,32,Overall,Overall,Overall,106.6,6.5,2020-08-05
+Maryland,EIP,2020-21,2020,32,Overall,Overall,Overall,217.4,6.8,2020-08-05
+Michigan,IHSP,2020-21,2020,32,Overall,Overall,Overall,103.2,1,2020-08-05
+Minnesota,EIP,2020-21,2020,32,Overall,Overall,Overall,134.8,7.7,2020-08-05
+New Mexico,EIP,2020-21,2020,32,Overall,Overall,Overall,92.4,3.9,2020-08-05
+New York,EIP,2020-21,2020,32,Overall,Overall,Overall,83.3,1.3,2020-08-05
+Ohio,IHSP,2020-21,2020,32,Overall,Overall,Overall,91.1,3.9,2020-08-05
+Oregon,EIP,2020-21,2020,32,Overall,Overall,Overall,49.5,3,2020-08-05
+Georgia,EIP,2020-21,2020,32,Overall,Overall,Overall,215.2,13.4,2020-08-05
+California,EIP,2020-21,2020,32,Overall,Overall,Overall,84.7,6.2,2020-08-05
+Colorado,EIP,2020-21,2020,32,Overall,Overall,Overall,154.4,2.8,2020-08-05
+Connecticut,EIP,2020-21,2020,32,Overall,Overall,Overall,292.8,2.3,2020-08-05
+Connecticut,EIP,2020-21,2020,33,Overall,Overall,Overall,294.6,1.9,2020-08-12
+Colorado,EIP,2020-21,2020,33,Overall,Overall,Overall,156.7,2.3,2020-08-12
+California,EIP,2020-21,2020,33,Overall,Overall,Overall,91.9,7.1,2020-08-12
+Georgia,EIP,2020-21,2020,33,Overall,Overall,Overall,226.6,11.4,2020-08-12
+Oregon,EIP,2020-21,2020,33,Overall,Overall,Overall,53.1,3.6,2020-08-12
+Ohio,IHSP,2020-21,2020,33,Overall,Overall,Overall,94.2,3.1,2020-08-12
+New York,EIP,2020-21,2020,33,Overall,Overall,Overall,85.6,2.2,2020-08-12
+New Mexico,EIP,2020-21,2020,33,Overall,Overall,Overall,96.7,4.3,2020-08-12
+Minnesota,EIP,2020-21,2020,33,Overall,Overall,Overall,141.8,7,2020-08-12
+Michigan,IHSP,2020-21,2020,33,Overall,Overall,Overall,104.4,1.2,2020-08-12
+Maryland,EIP,2020-21,2020,33,Overall,Overall,Overall,222.5,5,2020-08-12
+Utah,IHSP,2020-21,2020,33,Overall,Overall,Overall,111.2,4.6,2020-08-12
+Tennessee,EIP,2020-21,2020,33,Overall,Overall,Overall,164,9.4,2020-08-12
+Iowa,IHSP,2020-21,2020,33,Overall,Overall,Overall,190.5,9.9,2020-08-12
+Iowa,IHSP,2020-21,2020,34,Overall,Overall,Overall,201.9,11.4,2020-08-19
+Tennessee,EIP,2020-21,2020,34,Overall,Overall,Overall,170.9,6.9,2020-08-19
+Utah,IHSP,2020-21,2020,34,Overall,Overall,Overall,115.8,4.7,2020-08-19
+Maryland,EIP,2020-21,2020,34,Overall,Overall,Overall,227.8,5.3,2020-08-19
+Michigan,IHSP,2020-21,2020,34,Overall,Overall,Overall,105.9,1.5,2020-08-19
+Minnesota,EIP,2020-21,2020,34,Overall,Overall,Overall,148.5,6.7,2020-08-19
+New Mexico,EIP,2020-21,2020,34,Overall,Overall,Overall,99.7,3,2020-08-19
+New York,EIP,2020-21,2020,34,Overall,Overall,Overall,87.2,1.6,2020-08-19
+Ohio,IHSP,2020-21,2020,34,Overall,Overall,Overall,97.1,2.9,2020-08-19
+Oregon,EIP,2020-21,2020,34,Overall,Overall,Overall,56,2.9,2020-08-19
+Georgia,EIP,2020-21,2020,34,Overall,Overall,Overall,236.8,10.2,2020-08-19
+California,EIP,2020-21,2020,34,Overall,Overall,Overall,98.6,6.8,2020-08-19
+Colorado,EIP,2020-21,2020,34,Overall,Overall,Overall,158.6,1.9,2020-08-19
+Connecticut,EIP,2020-21,2020,34,Overall,Overall,Overall,297.2,2.6,2020-08-19
+Connecticut,EIP,2020-21,2020,35,Overall,Overall,Overall,299,1.8,2020-08-26
+Colorado,EIP,2020-21,2020,35,Overall,Overall,Overall,161,2.4,2020-08-26
+California,EIP,2020-21,2020,35,Overall,Overall,Overall,105,6.4,2020-08-26
+Georgia,EIP,2020-21,2020,35,Overall,Overall,Overall,243.5,6.7,2020-08-26
+Oregon,EIP,2020-21,2020,35,Overall,Overall,Overall,58.3,2.3,2020-08-26
+Ohio,IHSP,2020-21,2020,35,Overall,Overall,Overall,100,2.9,2020-08-26
+New York,EIP,2020-21,2020,35,Overall,Overall,Overall,88.2,1.1,2020-08-26
+New Mexico,EIP,2020-21,2020,35,Overall,Overall,Overall,102.8,3.1,2020-08-26
+Minnesota,EIP,2020-21,2020,35,Overall,Overall,Overall,154.4,5.9,2020-08-26
+Michigan,IHSP,2020-21,2020,35,Overall,Overall,Overall,107,1.1,2020-08-26
+Maryland,EIP,2020-21,2020,35,Overall,Overall,Overall,232.3,4.5,2020-08-26
+Tennessee,EIP,2020-21,2020,35,Overall,Overall,Overall,177.8,6.8,2020-08-26
+Utah,IHSP,2020-21,2020,35,Overall,Overall,Overall,120.2,4.4,2020-08-26
+Iowa,IHSP,2020-21,2020,35,Overall,Overall,Overall,207.3,5.3,2020-08-26
+Iowa,IHSP,2020-21,2020,36,Overall,Overall,Overall,214.1,6.9,2020-09-02
+Tennessee,EIP,2020-21,2020,36,Overall,Overall,Overall,184,6.2,2020-09-02
+Utah,IHSP,2020-21,2020,36,Overall,Overall,Overall,124.4,4.2,2020-09-02
+Maryland,EIP,2020-21,2020,36,Overall,Overall,Overall,236.5,4.2,2020-09-02
+Michigan,IHSP,2020-21,2020,36,Overall,Overall,Overall,108.1,1,2020-09-02
+Minnesota,EIP,2020-21,2020,36,Overall,Overall,Overall,159.7,5.4,2020-09-02
+New Mexico,EIP,2020-21,2020,36,Overall,Overall,Overall,104.7,1.9,2020-09-02
+New York,EIP,2020-21,2020,36,Overall,Overall,Overall,89.2,0.9,2020-09-02
+Ohio,IHSP,2020-21,2020,36,Overall,Overall,Overall,103,3,2020-09-02
+Oregon,EIP,2020-21,2020,36,Overall,Overall,Overall,60,1.7,2020-09-02
+Georgia,EIP,2020-21,2020,36,Overall,Overall,Overall,250.3,6.8,2020-09-02
+California,EIP,2020-21,2020,36,Overall,Overall,Overall,110.1,5.1,2020-09-02
+Colorado,EIP,2020-21,2020,36,Overall,Overall,Overall,163,1.9,2020-09-02
+Connecticut,EIP,2020-21,2020,36,Overall,Overall,Overall,300.9,2,2020-09-02
+Connecticut,EIP,2020-21,2020,37,Overall,Overall,Overall,302.7,1.8,2020-09-09
+Colorado,EIP,2020-21,2020,37,Overall,Overall,Overall,165.1,2.1,2020-09-09
+California,EIP,2020-21,2020,37,Overall,Overall,Overall,114.8,4.7,2020-09-09
+Georgia,EIP,2020-21,2020,37,Overall,Overall,Overall,256.2,5.9,2020-09-09
+Oregon,EIP,2020-21,2020,37,Overall,Overall,Overall,62.3,2.3,2020-09-09
+Ohio,IHSP,2020-21,2020,37,Overall,Overall,Overall,105.7,2.7,2020-09-09
+New York,EIP,2020-21,2020,37,Overall,Overall,Overall,91,1.8,2020-09-09
+New Mexico,EIP,2020-21,2020,37,Overall,Overall,Overall,107.4,2.6,2020-09-09
+Minnesota,EIP,2020-21,2020,37,Overall,Overall,Overall,164,4.2,2020-09-09
+Michigan,IHSP,2020-21,2020,37,Overall,Overall,Overall,109.3,1.2,2020-09-09
+Maryland,EIP,2020-21,2020,37,Overall,Overall,Overall,240.9,4.4,2020-09-09
+Utah,IHSP,2020-21,2020,37,Overall,Overall,Overall,128.4,4,2020-09-09
+Tennessee,EIP,2020-21,2020,37,Overall,Overall,Overall,189.5,5.5,2020-09-09
+Iowa,IHSP,2020-21,2020,37,Overall,Overall,Overall,224.8,10.7,2020-09-09
+Iowa,IHSP,2020-21,2020,38,Overall,Overall,Overall,233.2,8.4,2020-09-16
+Tennessee,EIP,2020-21,2020,38,Overall,Overall,Overall,194.9,5.5,2020-09-16
+Utah,IHSP,2020-21,2020,38,Overall,Overall,Overall,134.1,5.7,2020-09-16
+Maryland,EIP,2020-21,2020,38,Overall,Overall,Overall,245,4.2,2020-09-16
+Michigan,IHSP,2020-21,2020,38,Overall,Overall,Overall,110.6,1.4,2020-09-16
+Minnesota,EIP,2020-21,2020,38,Overall,Overall,Overall,168.9,4.9,2020-09-16
+New Mexico,EIP,2020-21,2020,38,Overall,Overall,Overall,111.1,3.7,2020-09-16
+New York,EIP,2020-21,2020,38,Overall,Overall,Overall,92.2,1.2,2020-09-16
+Ohio,IHSP,2020-21,2020,38,Overall,Overall,Overall,107.8,2.1,2020-09-16
+Oregon,EIP,2020-21,2020,38,Overall,Overall,Overall,65,2.7,2020-09-16
+Georgia,EIP,2020-21,2020,38,Overall,Overall,Overall,261.5,5.3,2020-09-16
+California,EIP,2020-21,2020,38,Overall,Overall,Overall,118.7,3.8,2020-09-16
+Colorado,EIP,2020-21,2020,38,Overall,Overall,Overall,167.7,2.6,2020-09-16
+Connecticut,EIP,2020-21,2020,38,Overall,Overall,Overall,305.4,2.7,2020-09-16
+Connecticut,EIP,2020-21,2020,39,Overall,Overall,Overall,307.5,2.2,2020-09-23
+Colorado,EIP,2020-21,2020,39,Overall,Overall,Overall,171.2,3.5,2020-09-23
+California,EIP,2020-21,2020,39,Overall,Overall,Overall,121.4,2.7,2020-09-23
+Georgia,EIP,2020-21,2020,39,Overall,Overall,Overall,266.3,4.8,2020-09-23
+Oregon,EIP,2020-21,2020,39,Overall,Overall,Overall,68.4,3.3,2020-09-23
+Ohio,IHSP,2020-21,2020,39,Overall,Overall,Overall,110.4,2.6,2020-09-23
+New York,EIP,2020-21,2020,39,Overall,Overall,Overall,93.2,1.1,2020-09-23
+New Mexico,EIP,2020-21,2020,39,Overall,Overall,Overall,115.5,4.4,2020-09-23
+Minnesota,EIP,2020-21,2020,39,Overall,Overall,Overall,175.7,6.9,2020-09-23
+Michigan,IHSP,2020-21,2020,39,Overall,Overall,Overall,113.5,2.9,2020-09-23
+Maryland,EIP,2020-21,2020,39,Overall,Overall,Overall,249.5,4.4,2020-09-23
+Utah,IHSP,2020-21,2020,39,Overall,Overall,Overall,142.7,8.6,2020-09-23
+Tennessee,EIP,2020-21,2020,39,Overall,Overall,Overall,201.8,6.8,2020-09-23
+Iowa,IHSP,2020-21,2020,39,Overall,Overall,Overall,241.6,8.4,2020-09-23
+Iowa,IHSP,2020-21,2020,40,Overall,Overall,Overall,251.5,9.9,2020-09-30
+Tennessee,EIP,2020-21,2020,40,Overall,Overall,Overall,208,6.2,2020-09-30
+Utah,IHSP,2020-21,2020,40,Overall,Overall,Overall,149.9,7.2,2020-09-30
+Maryland,EIP,2020-21,2020,40,Overall,Overall,Overall,254.2,4.7,2020-09-30
+Michigan,IHSP,2020-21,2020,40,Overall,Overall,Overall,117.1,3.6,2020-09-30
+Minnesota,EIP,2020-21,2020,40,Overall,Overall,Overall,181.8,6,2020-09-30
+New Mexico,EIP,2020-21,2020,40,Overall,Overall,Overall,120.6,5.1,2020-09-30
+New York,EIP,2020-21,2020,40,Overall,Overall,Overall,94.8,1.6,2020-09-30
+Ohio,IHSP,2020-21,2020,40,Overall,Overall,Overall,113.1,2.7,2020-09-30
+Oregon,EIP,2020-21,2020,40,Overall,Overall,Overall,70.7,2.3,2020-09-30
+Georgia,EIP,2020-21,2020,40,Overall,Overall,Overall,271.6,5.4,2020-09-30
+California,EIP,2020-21,2020,40,Overall,Overall,Overall,124.2,2.9,2020-09-30
+Colorado,EIP,2020-21,2020,40,Overall,Overall,Overall,175.6,4.4,2020-09-30
+Connecticut,EIP,2020-21,2020,40,Overall,Overall,Overall,310.7,3.1,2020-09-30
+Connecticut,EIP,2020-21,2020,41,Overall,Overall,Overall,314.7,4,2020-10-07
+Colorado,EIP,2020-21,2020,41,Overall,Overall,Overall,182.1,6.5,2020-10-07
+California,EIP,2020-21,2020,41,Overall,Overall,Overall,126.5,2.2,2020-10-07
+Georgia,EIP,2020-21,2020,41,Overall,Overall,Overall,277.5,5.8,2020-10-07
+Oregon,EIP,2020-21,2020,41,Overall,Overall,Overall,73.9,3.3,2020-10-07
+Ohio,IHSP,2020-21,2020,41,Overall,Overall,Overall,116.3,3.2,2020-10-07
+New York,EIP,2020-21,2020,41,Overall,Overall,Overall,96.9,2.1,2020-10-07
+New Mexico,EIP,2020-21,2020,41,Overall,Overall,Overall,128.5,7.9,2020-10-07
+Minnesota,EIP,2020-21,2020,41,Overall,Overall,Overall,189.3,7.5,2020-10-07
+Michigan,IHSP,2020-21,2020,41,Overall,Overall,Overall,121.5,4.5,2020-10-07
+Maryland,EIP,2020-21,2020,41,Overall,Overall,Overall,259.6,5.4,2020-10-07
+Utah,IHSP,2020-21,2020,41,Overall,Overall,Overall,160.4,10.5,2020-10-07
+Tennessee,EIP,2020-21,2020,41,Overall,Overall,Overall,217.7,9.7,2020-10-07
+Iowa,IHSP,2020-21,2020,41,Overall,Overall,Overall,263.7,12.2,2020-10-07
+Iowa,IHSP,2020-21,2020,42,Overall,Overall,Overall,275.1,11.4,2020-10-14
+Tennessee,EIP,2020-21,2020,42,Overall,Overall,Overall,228.3,10.6,2020-10-14
+Utah,IHSP,2020-21,2020,42,Overall,Overall,Overall,169.8,9.5,2020-10-14
+Maryland,EIP,2020-21,2020,42,Overall,Overall,Overall,265.3,5.7,2020-10-14
+Michigan,IHSP,2020-21,2020,42,Overall,Overall,Overall,127,5.5,2020-10-14
+Minnesota,EIP,2020-21,2020,42,Overall,Overall,Overall,198.1,8.8,2020-10-14
+New Mexico,EIP,2020-21,2020,42,Overall,Overall,Overall,141.7,13.2,2020-10-14
+New York,EIP,2020-21,2020,42,Overall,Overall,Overall,100.5,3.6,2020-10-14
+Ohio,IHSP,2020-21,2020,42,Overall,Overall,Overall,119.7,3.3,2020-10-14
+Oregon,EIP,2020-21,2020,42,Overall,Overall,Overall,77.1,3.2,2020-10-14
+Georgia,EIP,2020-21,2020,42,Overall,Overall,Overall,284,6.6,2020-10-14
+California,EIP,2020-21,2020,42,Overall,Overall,Overall,128.6,2.2,2020-10-14
+Colorado,EIP,2020-21,2020,42,Overall,Overall,Overall,190.1,8,2020-10-14
+Connecticut,EIP,2020-21,2020,42,Overall,Overall,Overall,319,4.3,2020-10-14
+Connecticut,EIP,2020-21,2020,43,Overall,Overall,Overall,324.9,5.9,2020-10-21
+Colorado,EIP,2020-21,2020,43,Overall,Overall,Overall,200.8,10.7,2020-10-21
+California,EIP,2020-21,2020,43,Overall,Overall,Overall,130.8,2.2,2020-10-21
+Georgia,EIP,2020-21,2020,43,Overall,Overall,Overall,291.4,7.4,2020-10-21
+Oregon,EIP,2020-21,2020,43,Overall,Overall,Overall,80.4,3.3,2020-10-21
+Ohio,IHSP,2020-21,2020,43,Overall,Overall,Overall,123.7,4.1,2020-10-21
+New York,EIP,2020-21,2020,43,Overall,Overall,Overall,104.3,3.8,2020-10-21
+New Mexico,EIP,2020-21,2020,43,Overall,Overall,Overall,158.7,16.9,2020-10-21
+Minnesota,EIP,2020-21,2020,43,Overall,Overall,Overall,209.5,11.4,2020-10-21
+Michigan,IHSP,2020-21,2020,43,Overall,Overall,Overall,134.6,7.6,2020-10-21
+Maryland,EIP,2020-21,2020,43,Overall,Overall,Overall,271.6,6.3,2020-10-21
+Tennessee,EIP,2020-21,2020,43,Overall,Overall,Overall,241.1,12.8,2020-10-21
+Utah,IHSP,2020-21,2020,43,Overall,Overall,Overall,181.1,11.2,2020-10-21
+Iowa,IHSP,2020-21,2020,43,Overall,Overall,Overall,285,9.9,2020-10-21
+Iowa,IHSP,2020-21,2020,44,Overall,Overall,Overall,307.9,22.9,2020-10-28
+Tennessee,EIP,2020-21,2020,44,Overall,Overall,Overall,256.2,15.2,2020-10-28
+Utah,IHSP,2020-21,2020,44,Overall,Overall,Overall,194.8,13.7,2020-10-28
+Maryland,EIP,2020-21,2020,44,Overall,Overall,Overall,278.9,7.3,2020-10-28
+Michigan,IHSP,2020-21,2020,44,Overall,Overall,Overall,142.8,8.2,2020-10-28
+Minnesota,EIP,2020-21,2020,44,Overall,Overall,Overall,223.5,14,2020-10-28
+New Mexico,EIP,2020-21,2020,44,Overall,Overall,Overall,180.3,21.6,2020-10-28
+New York,EIP,2020-21,2020,44,Overall,Overall,Overall,109.2,4.9,2020-10-28
+Ohio,IHSP,2020-21,2020,44,Overall,Overall,Overall,129.5,5.8,2020-10-28
+Oregon,EIP,2020-21,2020,44,Overall,Overall,Overall,83.3,2.9,2020-10-28
+Georgia,EIP,2020-21,2020,44,Overall,Overall,Overall,298.5,7.1,2020-10-28
+California,EIP,2020-21,2020,44,Overall,Overall,Overall,134.1,3.3,2020-10-28
+Colorado,EIP,2020-21,2020,44,Overall,Overall,Overall,214.6,13.8,2020-10-28
+Connecticut,EIP,2020-21,2020,44,Overall,Overall,Overall,336.8,11.9,2020-10-28
+Connecticut,EIP,2020-21,2020,45,Overall,Overall,Overall,352.6,15.8,2020-11-04
+Colorado,EIP,2020-21,2020,45,Overall,Overall,Overall,233.8,19.3,2020-11-04
+California,EIP,2020-21,2020,45,Overall,Overall,Overall,137.6,3.5,2020-11-04
+Georgia,EIP,2020-21,2020,45,Overall,Overall,Overall,307.3,8.8,2020-11-04
+Oregon,EIP,2020-21,2020,45,Overall,Overall,Overall,89.8,6.5,2020-11-04
+Ohio,IHSP,2020-21,2020,45,Overall,Overall,Overall,135.4,5.9,2020-11-04
+New York,EIP,2020-21,2020,45,Overall,Overall,Overall,115.6,6.4,2020-11-04
+New Mexico,EIP,2020-21,2020,45,Overall,Overall,Overall,206.6,26.3,2020-11-04
+Minnesota,EIP,2020-21,2020,45,Overall,Overall,Overall,243.6,20.1,2020-11-04
+Michigan,IHSP,2020-21,2020,45,Overall,Overall,Overall,156,13.2,2020-11-04
+Maryland,EIP,2020-21,2020,45,Overall,Overall,Overall,288.8,9.9,2020-11-04
+Tennessee,EIP,2020-21,2020,45,Overall,Overall,Overall,271.9,15.7,2020-11-04
+Utah,IHSP,2020-21,2020,45,Overall,Overall,Overall,212.5,17.8,2020-11-04
+Iowa,IHSP,2020-21,2020,45,Overall,Overall,Overall,348.2,40.4,2020-11-04
+Iowa,IHSP,2020-21,2020,46,Overall,Overall,Overall,399.3,51.1,2020-11-11
+Tennessee,EIP,2020-21,2020,46,Overall,Overall,Overall,292.9,21.1,2020-11-11
+Utah,IHSP,2020-21,2020,46,Overall,Overall,Overall,229.9,17.4,2020-11-11
+Maryland,EIP,2020-21,2020,46,Overall,Overall,Overall,303.4,14.5,2020-11-11
+Michigan,IHSP,2020-21,2020,46,Overall,Overall,Overall,177.3,21.3,2020-11-11
+Minnesota,EIP,2020-21,2020,46,Overall,Overall,Overall,268.9,25.3,2020-11-11
+New Mexico,EIP,2020-21,2020,46,Overall,Overall,Overall,233.2,26.6,2020-11-11
+New York,EIP,2020-21,2020,46,Overall,Overall,Overall,125.2,9.7,2020-11-11
+Ohio,IHSP,2020-21,2020,46,Overall,Overall,Overall,143.3,7.9,2020-11-11
+Oregon,EIP,2020-21,2020,46,Overall,Overall,Overall,97.9,8.1,2020-11-11
+Georgia,EIP,2020-21,2020,46,Overall,Overall,Overall,317.1,9.8,2020-11-11
+California,EIP,2020-21,2020,46,Overall,Overall,Overall,141.6,4,2020-11-11
+Colorado,EIP,2020-21,2020,46,Overall,Overall,Overall,260,26.2,2020-11-11
+Connecticut,EIP,2020-21,2020,46,Overall,Overall,Overall,380.2,27.5,2020-11-11
+Connecticut,EIP,2020-21,2020,47,Overall,Overall,Overall,409.8,29.6,2020-11-18
+Colorado,EIP,2020-21,2020,47,Overall,Overall,Overall,286,26,2020-11-18
+California,EIP,2020-21,2020,47,Overall,Overall,Overall,148.5,6.9,2020-11-18
+Georgia,EIP,2020-21,2020,47,Overall,Overall,Overall,327.2,10,2020-11-18
+Oregon,EIP,2020-21,2020,47,Overall,Overall,Overall,107.5,9.6,2020-11-18
+Ohio,IHSP,2020-21,2020,47,Overall,Overall,Overall,152.3,9,2020-11-18
+New York,EIP,2020-21,2020,47,Overall,Overall,Overall,138.3,13.1,2020-11-18
+New Mexico,EIP,2020-21,2020,47,Overall,Overall,Overall,263,29.8,2020-11-18
+Minnesota,EIP,2020-21,2020,47,Overall,Overall,Overall,296.7,27.8,2020-11-18
+Michigan,IHSP,2020-21,2020,47,Overall,Overall,Overall,198.4,21.1,2020-11-18
+Maryland,EIP,2020-21,2020,47,Overall,Overall,Overall,322,18.7,2020-11-18
+Utah,IHSP,2020-21,2020,47,Overall,Overall,Overall,250.2,20.3,2020-11-18
+Tennessee,EIP,2020-21,2020,47,Overall,Overall,Overall,317.1,24.1,2020-11-18
+Iowa,IHSP,2020-21,2020,47,Overall,Overall,Overall,432.1,32.8,2020-11-18
+Iowa,IHSP,2020-21,2020,48,Overall,Overall,Overall,460.3,28.2,2020-11-25
+Tennessee,EIP,2020-21,2020,48,Overall,Overall,Overall,339.4,22.4,2020-11-25
+Utah,IHSP,2020-21,2020,48,Overall,Overall,Overall,267.1,16.9,2020-11-25
+Maryland,EIP,2020-21,2020,48,Overall,Overall,Overall,342.7,20.7,2020-11-25
+Michigan,IHSP,2020-21,2020,48,Overall,Overall,Overall,218.3,19.9,2020-11-25
+Minnesota,EIP,2020-21,2020,48,Overall,Overall,Overall,321.9,25.2,2020-11-25
+New Mexico,EIP,2020-21,2020,48,Overall,Overall,Overall,297.2,34.2,2020-11-25
+New York,EIP,2020-21,2020,48,Overall,Overall,Overall,158,19.6,2020-11-25
+Ohio,IHSP,2020-21,2020,48,Overall,Overall,Overall,159.5,7.2,2020-11-25
+Oregon,EIP,2020-21,2020,48,Overall,Overall,Overall,118.7,11.2,2020-11-25
+Georgia,EIP,2020-21,2020,48,Overall,Overall,Overall,339.1,11.9,2020-11-25
+California,EIP,2020-21,2020,48,Overall,Overall,Overall,157,8.4,2020-11-25
+Colorado,EIP,2020-21,2020,48,Overall,Overall,Overall,310.2,24.2,2020-11-25
+Connecticut,EIP,2020-21,2020,48,Overall,Overall,Overall,439.9,30.2,2020-11-25
+Connecticut,EIP,2020-21,2020,49,Overall,Overall,Overall,473.3,33.3,2020-12-02
+Colorado,EIP,2020-21,2020,49,Overall,Overall,Overall,331.5,21.3,2020-12-02
+California,EIP,2020-21,2020,49,Overall,Overall,Overall,168.8,11.8,2020-12-02
+Georgia,EIP,2020-21,2020,49,Overall,Overall,Overall,352.7,13.6,2020-12-02
+Oregon,EIP,2020-21,2020,49,Overall,Overall,Overall,130,11.2,2020-12-02
+Ohio,IHSP,2020-21,2020,49,Overall,Overall,Overall,168.4,8.9,2020-12-02
+New York,EIP,2020-21,2020,49,Overall,Overall,Overall,186.3,28.4,2020-12-02
+New Mexico,EIP,2020-21,2020,49,Overall,Overall,Overall,327.4,30.1,2020-12-02
+Minnesota,EIP,2020-21,2020,49,Overall,Overall,Overall,346.6,24.7,2020-12-02
+Michigan,IHSP,2020-21,2020,49,Overall,Overall,Overall,238.4,20.1,2020-12-02
+Maryland,EIP,2020-21,2020,49,Overall,Overall,Overall,361.5,18.8,2020-12-02
+Utah,IHSP,2020-21,2020,49,Overall,Overall,Overall,282.9,15.9,2020-12-02
+Tennessee,EIP,2020-21,2020,49,Overall,Overall,Overall,365,25.6,2020-12-02
+Iowa,IHSP,2020-21,2020,49,Overall,Overall,Overall,485.4,25.1,2020-12-02
+Iowa,IHSP,2020-21,2020,50,Overall,Overall,Overall,506,20.6,2020-12-09
+Tennessee,EIP,2020-21,2020,50,Overall,Overall,Overall,391.7,26.7,2020-12-09
+Utah,IHSP,2020-21,2020,50,Overall,Overall,Overall,299.5,16.5,2020-12-09
+Maryland,EIP,2020-21,2020,50,Overall,Overall,Overall,381.5,20,2020-12-09
+Michigan,IHSP,2020-21,2020,50,Overall,Overall,Overall,262,23.6,2020-12-09
+Minnesota,EIP,2020-21,2020,50,Overall,Overall,Overall,368,21.4,2020-12-09
+New Mexico,EIP,2020-21,2020,50,Overall,Overall,Overall,354.8,27.4,2020-12-09
+New York,EIP,2020-21,2020,50,Overall,Overall,Overall,218.3,32,2020-12-09
+Ohio,IHSP,2020-21,2020,50,Overall,Overall,Overall,175,6.7,2020-12-09
+Oregon,EIP,2020-21,2020,50,Overall,Overall,Overall,138.9,8.9,2020-12-09
+Georgia,EIP,2020-21,2020,50,Overall,Overall,Overall,369.6,16.9,2020-12-09
+California,EIP,2020-21,2020,50,Overall,Overall,Overall,183.8,15,2020-12-09
+Colorado,EIP,2020-21,2020,50,Overall,Overall,Overall,350.2,18.7,2020-12-09
+Connecticut,EIP,2020-21,2020,50,Overall,Overall,Overall,508.7,35.4,2020-12-09
+Connecticut,EIP,2020-21,2020,51,Overall,Overall,Overall,537.5,28.8,2020-12-16
+Colorado,EIP,2020-21,2020,51,Overall,Overall,Overall,365.5,15.3,2020-12-16
+California,EIP,2020-21,2020,51,Overall,Overall,Overall,202,18.2,2020-12-16
+Georgia,EIP,2020-21,2020,51,Overall,Overall,Overall,390.6,21,2020-12-16
+Oregon,EIP,2020-21,2020,51,Overall,Overall,Overall,147.7,8.7,2020-12-16
+Ohio,IHSP,2020-21,2020,51,Overall,Overall,Overall,180,4.9,2020-12-16
+New York,EIP,2020-21,2020,51,Overall,Overall,Overall,251.3,33,2020-12-16
+New Mexico,EIP,2020-21,2020,51,Overall,Overall,Overall,377.3,22.5,2020-12-16
+Minnesota,EIP,2020-21,2020,51,Overall,Overall,Overall,384.5,16.5,2020-12-16
+Michigan,IHSP,2020-21,2020,51,Overall,Overall,Overall,281.8,19.8,2020-12-16
+Maryland,EIP,2020-21,2020,51,Overall,Overall,Overall,401.7,20.2,2020-12-16
+Utah,IHSP,2020-21,2020,51,Overall,Overall,Overall,313.7,14.2,2020-12-16
+Tennessee,EIP,2020-21,2020,51,Overall,Overall,Overall,417.6,25.9,2020-12-16
+Iowa,IHSP,2020-21,2020,51,Overall,Overall,Overall,518.2,12.2,2020-12-16
+Iowa,IHSP,2020-21,2020,52,Overall,Overall,Overall,530.4,12.2,2020-12-23
+Tennessee,EIP,2020-21,2020,52,Overall,Overall,Overall,446.2,28.6,2020-12-23
+Utah,IHSP,2020-21,2020,52,Overall,Overall,Overall,326.3,12.6,2020-12-23
+Maryland,EIP,2020-21,2020,52,Overall,Overall,Overall,422.8,21.1,2020-12-23
+Michigan,IHSP,2020-21,2020,52,Overall,Overall,Overall,297.8,16,2020-12-23
+Minnesota,EIP,2020-21,2020,52,Overall,Overall,Overall,397.9,13.4,2020-12-23
+New Mexico,EIP,2020-21,2020,52,Overall,Overall,Overall,401,23.7,2020-12-23
+New York,EIP,2020-21,2020,52,Overall,Overall,Overall,290.1,38.8,2020-12-23
+Ohio,IHSP,2020-21,2020,52,Overall,Overall,Overall,184.1,4.1,2020-12-23
+Oregon,EIP,2020-21,2020,52,Overall,Overall,Overall,154.2,6.5,2020-12-23
+Georgia,EIP,2020-21,2020,52,Overall,Overall,Overall,412.6,22,2020-12-23
+California,EIP,2020-21,2020,52,Overall,Overall,Overall,219.4,17.4,2020-12-23
+Colorado,EIP,2020-21,2020,52,Overall,Overall,Overall,378.4,12.9,2020-12-23
+Connecticut,EIP,2020-21,2020,52,Overall,Overall,Overall,570.4,32.9,2020-12-23
+Connecticut,EIP,2020-21,2020,53,Overall,Overall,Overall,596.7,26.3,2020-12-30
+Colorado,EIP,2020-21,2020,53,Overall,Overall,Overall,389.9,11.5,2020-12-30
+California,EIP,2020-21,2020,53,Overall,Overall,Overall,237.9,18.5,2020-12-30
+Georgia,EIP,2020-21,2020,53,Overall,Overall,Overall,439.5,26.9,2020-12-30
+Oregon,EIP,2020-21,2020,53,Overall,Overall,Overall,160.6,6.4,2020-12-30
+Ohio,IHSP,2020-21,2020,53,Overall,Overall,Overall,188.6,4.5,2020-12-30
+New York,EIP,2020-21,2020,53,Overall,Overall,Overall,328.1,38,2020-12-30
+New Mexico,EIP,2020-21,2020,53,Overall,Overall,Overall,426.3,25.3,2020-12-30
+Minnesota,EIP,2020-21,2020,53,Overall,Overall,Overall,410.7,12.8,2020-12-30
+Michigan,IHSP,2020-21,2020,53,Overall,Overall,Overall,313,15.1,2020-12-30
+Maryland,EIP,2020-21,2020,53,Overall,Overall,Overall,443.7,20.9,2020-12-30
+Utah,IHSP,2020-21,2020,53,Overall,Overall,Overall,339.4,13.1,2020-12-30
+Tennessee,EIP,2020-21,2020,53,Overall,Overall,Overall,476.9,30.7,2020-12-30
+Iowa,IHSP,2020-21,2020,53,Overall,Overall,Overall,541.8,11.4,2020-12-30
+Iowa,IHSP,2020-21,2021,1,Overall,Overall,Overall,552.5,10.7,2021-01-01
+Tennessee,EIP,2020-21,2021,1,Overall,Overall,Overall,508.5,31.6,2021-01-01
+Utah,IHSP,2020-21,2021,1,Overall,Overall,Overall,357,17.7,2021-01-01
+Maryland,EIP,2020-21,2021,1,Overall,Overall,Overall,466.5,22.8,2021-01-01
+Michigan,IHSP,2020-21,2021,1,Overall,Overall,Overall,328.2,15.2,2021-01-01
+Minnesota,EIP,2020-21,2021,1,Overall,Overall,Overall,421.2,10.5,2021-01-01
+New Mexico,EIP,2020-21,2021,1,Overall,Overall,Overall,451.1,24.9,2021-01-01
+New York,EIP,2020-21,2021,1,Overall,Overall,Overall,366.3,38.2,2021-01-01
+Ohio,IHSP,2020-21,2021,1,Overall,Overall,Overall,193.3,4.7,2021-01-01
+Oregon,EIP,2020-21,2021,1,Overall,Overall,Overall,167.7,7.1,2021-01-01
+Georgia,EIP,2020-21,2021,1,Overall,Overall,Overall,469.7,30.1,2021-01-01
+California,EIP,2020-21,2021,1,Overall,Overall,Overall,259.6,21.7,2021-01-01
+Colorado,EIP,2020-21,2021,1,Overall,Overall,Overall,401.6,11.6,2021-01-01
+Connecticut,EIP,2020-21,2021,1,Overall,Overall,Overall,620.2,23.5,2021-01-01
+Connecticut,EIP,2020-21,2021,2,Overall,Overall,Overall,648.2,27.9,2021-01-08
+Colorado,EIP,2020-21,2021,2,Overall,Overall,Overall,411.6,10.1,2021-01-08
+California,EIP,2020-21,2021,2,Overall,Overall,Overall,278.7,19.1,2021-01-08
+Georgia,EIP,2020-21,2021,2,Overall,Overall,Overall,499.1,29.4,2021-01-08
+Oregon,EIP,2020-21,2021,2,Overall,Overall,Overall,173.3,5.6,2021-01-08
+Ohio,IHSP,2020-21,2021,2,Overall,Overall,Overall,197.2,4,2021-01-08
+New York,EIP,2020-21,2021,2,Overall,Overall,Overall,398.9,32.5,2021-01-08
+New Mexico,EIP,2020-21,2021,2,Overall,Overall,Overall,470.1,19,2021-01-08
+Minnesota,EIP,2020-21,2021,2,Overall,Overall,Overall,430.2,9,2021-01-08
+Michigan,IHSP,2020-21,2021,2,Overall,Overall,Overall,339,10.8,2021-01-08
+Maryland,EIP,2020-21,2021,2,Overall,Overall,Overall,487.2,20.7,2021-01-08
+Tennessee,EIP,2020-21,2021,2,Overall,Overall,Overall,532.6,24.1,2021-01-08
+Utah,IHSP,2020-21,2021,2,Overall,Overall,Overall,372.5,15.5,2021-01-08
+Iowa,IHSP,2020-21,2021,2,Overall,Overall,Overall,569.2,16.8,2021-01-08
+Iowa,IHSP,2020-21,2021,3,Overall,Overall,Overall,588.3,19.1,2021-01-15
+Tennessee,EIP,2020-21,2021,3,Overall,Overall,Overall,551.9,19.3,2021-01-15
+Utah,IHSP,2020-21,2021,3,Overall,Overall,Overall,383.8,11.3,2021-01-15
+Maryland,EIP,2020-21,2021,3,Overall,Overall,Overall,505.7,18.6,2021-01-15
+Michigan,IHSP,2020-21,2021,3,Overall,Overall,Overall,347.4,8.4,2021-01-15
+Minnesota,EIP,2020-21,2021,3,Overall,Overall,Overall,438.2,8,2021-01-15
+New Mexico,EIP,2020-21,2021,3,Overall,Overall,Overall,489.5,19.4,2021-01-15
+New York,EIP,2020-21,2021,3,Overall,Overall,Overall,428.8,29.9,2021-01-15
+Ohio,IHSP,2020-21,2021,3,Overall,Overall,Overall,201,3.7,2021-01-15
+Oregon,EIP,2020-21,2021,3,Overall,Overall,Overall,178.5,5.2,2021-01-15
+Georgia,EIP,2020-21,2021,3,Overall,Overall,Overall,524,24.9,2021-01-15
+California,EIP,2020-21,2021,3,Overall,Overall,Overall,294.8,16.1,2021-01-15
+Colorado,EIP,2020-21,2021,3,Overall,Overall,Overall,420.4,8.8,2021-01-15
+Connecticut,EIP,2020-21,2021,3,Overall,Overall,Overall,671.7,23.5,2021-01-15
+Connecticut,EIP,2020-21,2021,4,Overall,Overall,Overall,692.4,20.7,2021-01-22
+Colorado,EIP,2020-21,2021,4,Overall,Overall,Overall,429.1,8.7,2021-01-22
+California,EIP,2020-21,2021,4,Overall,Overall,Overall,306.7,11.9,2021-01-22
+Georgia,EIP,2020-21,2021,4,Overall,Overall,Overall,546.2,22.2,2021-01-22
+Oregon,EIP,2020-21,2021,4,Overall,Overall,Overall,183.3,4.8,2021-01-22
+Ohio,IHSP,2020-21,2021,4,Overall,Overall,Overall,202.8,1.8,2021-01-22
+New York,EIP,2020-21,2021,4,Overall,Overall,Overall,451.3,22.5,2021-01-22
+New Mexico,EIP,2020-21,2021,4,Overall,Overall,Overall,504.2,14.7,2021-01-22
+Minnesota,EIP,2020-21,2021,4,Overall,Overall,Overall,445.1,6.9,2021-01-22
+Michigan,IHSP,2020-21,2021,4,Overall,Overall,Overall,354.5,7.2,2021-01-22
+Maryland,EIP,2020-21,2021,4,Overall,Overall,Overall,522.4,16.7,2021-01-22
+Tennessee,EIP,2020-21,2021,4,Overall,Overall,Overall,565.4,13.5,2021-01-22
+Utah,IHSP,2020-21,2021,4,Overall,Overall,Overall,393.6,9.8,2021-01-22
+Iowa,IHSP,2020-21,2021,4,Overall,Overall,Overall,598.2,9.9,2021-01-22
+Iowa,IHSP,2020-21,2021,5,Overall,Overall,Overall,608.1,9.9,2021-01-29
+Tennessee,EIP,2020-21,2021,5,Overall,Overall,Overall,579.5,14.1,2021-01-29
+Utah,IHSP,2020-21,2021,5,Overall,Overall,Overall,400.8,7.2,2021-01-29
+Maryland,EIP,2020-21,2021,5,Overall,Overall,Overall,536.7,14.3,2021-01-29
+Michigan,IHSP,2020-21,2021,5,Overall,Overall,Overall,360.5,6,2021-01-29
+Minnesota,EIP,2020-21,2021,5,Overall,Overall,Overall,451.8,6.7,2021-01-29
+New Mexico,EIP,2020-21,2021,5,Overall,Overall,Overall,515.1,10.9,2021-01-29
+New York,EIP,2020-21,2021,5,Overall,Overall,Overall,468.2,17,2021-01-29
+Ohio,IHSP,2020-21,2021,5,Overall,Overall,Overall,205,2.2,2021-01-29
+Oregon,EIP,2020-21,2021,5,Overall,Overall,Overall,187.2,3.8,2021-01-29
+Georgia,EIP,2020-21,2021,5,Overall,Overall,Overall,564.7,18.5,2021-01-29
+California,EIP,2020-21,2021,5,Overall,Overall,Overall,317.5,10.8,2021-01-29
+Colorado,EIP,2020-21,2021,5,Overall,Overall,Overall,436.6,7.5,2021-01-29
+Connecticut,EIP,2020-21,2021,5,Overall,Overall,Overall,714.5,22.1,2021-01-29
+Connecticut,EIP,2020-21,2021,6,Overall,Overall,Overall,730.7,16.2,2021-02-05
+Colorado,EIP,2020-21,2021,6,Overall,Overall,Overall,442.6,6,2021-02-05
+California,EIP,2020-21,2021,6,Overall,Overall,Overall,325,7.6,2021-02-05
+Georgia,EIP,2020-21,2021,6,Overall,Overall,Overall,580.1,15.4,2021-02-05
+Oregon,EIP,2020-21,2021,6,Overall,Overall,Overall,190.2,3.1,2021-02-05
+Ohio,IHSP,2020-21,2021,6,Overall,Overall,Overall,206.3,1.3,2021-02-05
+New York,EIP,2020-21,2021,6,Overall,Overall,Overall,480.9,12.7,2021-02-05
+New Mexico,EIP,2020-21,2021,6,Overall,Overall,Overall,523.2,8.1,2021-02-05
+Minnesota,EIP,2020-21,2021,6,Overall,Overall,Overall,458.4,6.6,2021-02-05
+Michigan,IHSP,2020-21,2021,6,Overall,Overall,Overall,364,3.5,2021-02-05
+Maryland,EIP,2020-21,2021,6,Overall,Overall,Overall,546.8,10,2021-02-05
+Utah,IHSP,2020-21,2021,6,Overall,Overall,Overall,408.1,7.3,2021-02-05
+Tennessee,EIP,2020-21,2021,6,Overall,Overall,Overall,588.9,9.4,2021-02-05
+Iowa,IHSP,2020-21,2021,6,Overall,Overall,Overall,614.2,6.1,2021-02-05
+Iowa,IHSP,2020-21,2021,7,Overall,Overall,Overall,621.8,7.6,2021-02-12
+Tennessee,EIP,2020-21,2021,7,Overall,Overall,Overall,597.7,8.8,2021-02-12
+Utah,IHSP,2020-21,2021,7,Overall,Overall,Overall,415.3,7.2,2021-02-12
+Maryland,EIP,2020-21,2021,7,Overall,Overall,Overall,556.3,9.5,2021-02-12
+Michigan,IHSP,2020-21,2021,7,Overall,Overall,Overall,368.5,4.5,2021-02-12
+Minnesota,EIP,2020-21,2021,7,Overall,Overall,Overall,463.1,4.7,2021-02-12
+New Mexico,EIP,2020-21,2021,7,Overall,Overall,Overall,531.1,7.9,2021-02-12
+New York,EIP,2020-21,2021,7,Overall,Overall,Overall,490.6,9.7,2021-02-12
+Ohio,IHSP,2020-21,2021,7,Overall,Overall,Overall,208.6,2.2,2021-02-12
+Oregon,EIP,2020-21,2021,7,Overall,Overall,Overall,192.5,2.2,2021-02-12
+Georgia,EIP,2020-21,2021,7,Overall,Overall,Overall,593.4,13.3,2021-02-12
+California,EIP,2020-21,2021,7,Overall,Overall,Overall,330.8,5.7,2021-02-12
+Colorado,EIP,2020-21,2021,7,Overall,Overall,Overall,449.3,6.7,2021-02-12
+Connecticut,EIP,2020-21,2021,7,Overall,Overall,Overall,744.5,13.8,2021-02-12
+Connecticut,EIP,2020-21,2021,8,Overall,Overall,Overall,755.7,11.2,2021-02-19
+Colorado,EIP,2020-21,2021,8,Overall,Overall,Overall,454.7,5.4,2021-02-19
+California,EIP,2020-21,2021,8,Overall,Overall,Overall,336.5,5.7,2021-02-19
+Georgia,EIP,2020-21,2021,8,Overall,Overall,Overall,604.4,11.1,2021-02-19
+Oregon,EIP,2020-21,2021,8,Overall,Overall,Overall,194.2,1.7,2021-02-19
+Ohio,IHSP,2020-21,2021,8,Overall,Overall,Overall,209.6,1.1,2021-02-19
+New York,EIP,2020-21,2021,8,Overall,Overall,Overall,499.8,9.2,2021-02-19
+New Mexico,EIP,2020-21,2021,8,Overall,Overall,Overall,536.5,5.4,2021-02-19
+Minnesota,EIP,2020-21,2021,8,Overall,Overall,Overall,468.8,5.7,2021-02-19
+Michigan,IHSP,2020-21,2021,8,Overall,Overall,Overall,373.6,5.1,2021-02-19
+Maryland,EIP,2020-21,2021,8,Overall,Overall,Overall,565.3,9,2021-02-19
+Utah,IHSP,2020-21,2021,8,Overall,Overall,Overall,420.3,5,2021-02-19
+Tennessee,EIP,2020-21,2021,8,Overall,Overall,Overall,606.9,9.2,2021-02-19
+Iowa,IHSP,2020-21,2021,8,Overall,Overall,Overall,628.7,6.9,2021-02-19
+Iowa,IHSP,2020-21,2021,9,Overall,Overall,Overall,631,2.3,2021-02-26
+Tennessee,EIP,2020-21,2021,9,Overall,Overall,Overall,613.5,6.6,2021-02-26
+Utah,IHSP,2020-21,2021,9,Overall,Overall,Overall,425.1,4.8,2021-02-26
+Maryland,EIP,2020-21,2021,9,Overall,Overall,Overall,573.2,7.8,2021-02-26
+Michigan,IHSP,2020-21,2021,9,Overall,Overall,Overall,379.2,5.6,2021-02-26
+Minnesota,EIP,2020-21,2021,9,Overall,Overall,Overall,472.5,3.7,2021-02-26
+New Mexico,EIP,2020-21,2021,9,Overall,Overall,Overall,540.7,4.1,2021-02-26
+New York,EIP,2020-21,2021,9,Overall,Overall,Overall,508.4,8.6,2021-02-26
+Ohio,IHSP,2020-21,2021,9,Overall,Overall,Overall,210.9,1.3,2021-02-26
+Oregon,EIP,2020-21,2021,9,Overall,Overall,Overall,196.1,1.9,2021-02-26
+Georgia,EIP,2020-21,2021,9,Overall,Overall,Overall,614.5,10,2021-02-26
+California,EIP,2020-21,2021,9,Overall,Overall,Overall,340.7,4.3,2021-02-26
+Colorado,EIP,2020-21,2021,9,Overall,Overall,Overall,459.6,4.9,2021-02-26
+Connecticut,EIP,2020-21,2021,9,Overall,Overall,Overall,769.4,13.7,2021-02-26
+Connecticut,EIP,2020-21,2021,10,Overall,Overall,Overall,785.3,15.9,2021-03-05
+Colorado,EIP,2020-21,2021,10,Overall,Overall,Overall,464.6,5,2021-03-05
+California,EIP,2020-21,2021,10,Overall,Overall,Overall,344.5,3.8,2021-03-05
+Georgia,EIP,2020-21,2021,10,Overall,Overall,Overall,623.2,8.7,2021-03-05
+Oregon,EIP,2020-21,2021,10,Overall,Overall,Overall,198.3,2.3,2021-03-05
+Ohio,IHSP,2020-21,2021,10,Overall,Overall,Overall,212.6,1.7,2021-03-05
+New York,EIP,2020-21,2021,10,Overall,Overall,Overall,516.1,7.7,2021-03-05
+New Mexico,EIP,2020-21,2021,10,Overall,Overall,Overall,545.5,4.8,2021-03-05
+Minnesota,EIP,2020-21,2021,10,Overall,Overall,Overall,478.3,5.7,2021-03-05
+Michigan,IHSP,2020-21,2021,10,Overall,Overall,Overall,387.1,8,2021-03-05
+Maryland,EIP,2020-21,2021,10,Overall,Overall,Overall,581.4,8.2,2021-03-05
+Utah,IHSP,2020-21,2021,10,Overall,Overall,Overall,429.4,4.3,2021-03-05
+Tennessee,EIP,2020-21,2021,10,Overall,Overall,Overall,620.2,6.7,2021-03-05
+Iowa,IHSP,2020-21,2021,10,Overall,Overall,Overall,637.8,6.9,2021-03-05
+Iowa,IHSP,2020-21,2021,11,Overall,Overall,Overall,645.4,7.6,2021-03-12
+Tennessee,EIP,2020-21,2021,11,Overall,Overall,Overall,629.9,9.6,2021-03-12
+Utah,IHSP,2020-21,2021,11,Overall,Overall,Overall,433.1,3.7,2021-03-12
+Maryland,EIP,2020-21,2021,11,Overall,Overall,Overall,591.8,10.4,2021-03-12
+Michigan,IHSP,2020-21,2021,11,Overall,Overall,Overall,396.8,9.6,2021-03-12
+Minnesota,EIP,2020-21,2021,11,Overall,Overall,Overall,485.3,7.1,2021-03-12
+New Mexico,EIP,2020-21,2021,11,Overall,Overall,Overall,550.5,5.1,2021-03-12
+New York,EIP,2020-21,2021,11,Overall,Overall,Overall,523.6,7.5,2021-03-12
+Ohio,IHSP,2020-21,2021,11,Overall,Overall,Overall,213.6,0.9,2021-03-12
+Oregon,EIP,2020-21,2021,11,Overall,Overall,Overall,200.1,1.7,2021-03-12
+Georgia,EIP,2020-21,2021,11,Overall,Overall,Overall,631.8,8.6,2021-03-12
+California,EIP,2020-21,2021,11,Overall,Overall,Overall,347.8,3.3,2021-03-12
+Colorado,EIP,2020-21,2021,11,Overall,Overall,Overall,469.9,5.3,2021-03-12
+Connecticut,EIP,2020-21,2021,11,Overall,Overall,Overall,800.9,15.6,2021-03-12
+Connecticut,EIP,2020-21,2021,12,Overall,Overall,Overall,818,17.1,2021-03-19
+Colorado,EIP,2020-21,2021,12,Overall,Overall,Overall,475.7,5.8,2021-03-19
+California,EIP,2020-21,2021,12,Overall,Overall,Overall,350.5,2.7,2021-03-19
+Georgia,EIP,2020-21,2021,12,Overall,Overall,Overall,641.4,9.6,2021-03-19
+Oregon,EIP,2020-21,2021,12,Overall,Overall,Overall,202.2,2.1,2021-03-19
+Ohio,IHSP,2020-21,2021,12,Overall,Overall,Overall,215.4,1.8,2021-03-19
+New York,EIP,2020-21,2021,12,Overall,Overall,Overall,533.8,10.2,2021-03-19
+New Mexico,EIP,2020-21,2021,12,Overall,Overall,Overall,554.3,3.8,2021-03-19
+Minnesota,EIP,2020-21,2021,12,Overall,Overall,Overall,493.5,8.1,2021-03-19
+Michigan,IHSP,2020-21,2021,12,Overall,Overall,Overall,413.8,17,2021-03-19
+Maryland,EIP,2020-21,2021,12,Overall,Overall,Overall,603.8,12,2021-03-19
+Utah,IHSP,2020-21,2021,12,Overall,Overall,Overall,437,3.9,2021-03-19
+Tennessee,EIP,2020-21,2021,12,Overall,Overall,Overall,640.9,11,2021-03-19
+Iowa,IHSP,2020-21,2021,12,Overall,Overall,Overall,646.2,0.8,2021-03-19
+Iowa,IHSP,2020-21,2021,13,Overall,Overall,Overall,650,3.8,2021-03-26
+Tennessee,EIP,2020-21,2021,13,Overall,Overall,Overall,651.2,10.3,2021-03-26
+Utah,IHSP,2020-21,2021,13,Overall,Overall,Overall,440.5,3.5,2021-03-26
+Maryland,EIP,2020-21,2021,13,Overall,Overall,Overall,618.2,14.4,2021-03-26
+Michigan,IHSP,2020-21,2021,13,Overall,Overall,Overall,439.1,25.3,2021-03-26
+Minnesota,EIP,2020-21,2021,13,Overall,Overall,Overall,503.5,10,2021-03-26
+New Mexico,EIP,2020-21,2021,13,Overall,Overall,Overall,557.4,3.1,2021-03-26
+New York,EIP,2020-21,2021,13,Overall,Overall,Overall,543.7,9.9,2021-03-26
+Ohio,IHSP,2020-21,2021,13,Overall,Overall,Overall,217.1,1.7,2021-03-26
+Oregon,EIP,2020-21,2021,13,Overall,Overall,Overall,204.7,2.5,2021-03-26
+Georgia,EIP,2020-21,2021,13,Overall,Overall,Overall,648.2,6.7,2021-03-26
+California,EIP,2020-21,2021,13,Overall,Overall,Overall,353.3,2.8,2021-03-26
+Colorado,EIP,2020-21,2021,13,Overall,Overall,Overall,481.9,6.2,2021-03-26
+Connecticut,EIP,2020-21,2021,13,Overall,Overall,Overall,835.1,17.1,2021-03-26
+Connecticut,EIP,2020-21,2021,14,Overall,Overall,Overall,855,19.9,2021-04-02
+Colorado,EIP,2020-21,2021,14,Overall,Overall,Overall,490.3,8.4,2021-04-02
+California,EIP,2020-21,2021,14,Overall,Overall,Overall,356.2,2.9,2021-04-02
+Georgia,EIP,2020-21,2021,14,Overall,Overall,Overall,657.5,9.3,2021-04-02
+Oregon,EIP,2020-21,2021,14,Overall,Overall,Overall,208,3.3,2021-04-02
+Ohio,IHSP,2020-21,2021,14,Overall,Overall,Overall,218.8,1.6,2021-04-02
+New York,EIP,2020-21,2021,14,Overall,Overall,Overall,555.3,11.6,2021-04-02
+New Mexico,EIP,2020-21,2021,14,Overall,Overall,Overall,561.7,4.3,2021-04-02
+Minnesota,EIP,2020-21,2021,14,Overall,Overall,Overall,516.5,13,2021-04-02
+Michigan,IHSP,2020-21,2021,14,Overall,Overall,Overall,469.9,30.8,2021-04-02
+Maryland,EIP,2020-21,2021,14,Overall,Overall,Overall,633.5,15.3,2021-04-02
+Utah,IHSP,2020-21,2021,14,Overall,Overall,Overall,443.8,3.3,2021-04-02
+Tennessee,EIP,2020-21,2021,14,Overall,Overall,Overall,661.4,10.2,2021-04-02
+Iowa,IHSP,2020-21,2021,14,Overall,Overall,Overall,655.3,5.3,2021-04-02
+Iowa,IHSP,2020-21,2021,15,Overall,Overall,Overall,657.6,2.3,2021-04-09
+Tennessee,EIP,2020-21,2021,15,Overall,Overall,Overall,669.8,8.4,2021-04-09
+Utah,IHSP,2020-21,2021,15,Overall,Overall,Overall,447.2,3.4,2021-04-09
+Maryland,EIP,2020-21,2021,15,Overall,Overall,Overall,648.4,15,2021-04-09
+Michigan,IHSP,2020-21,2021,15,Overall,Overall,Overall,500.4,30.4,2021-04-09
+Minnesota,EIP,2020-21,2021,15,Overall,Overall,Overall,531,14.5,2021-04-09
+New Mexico,EIP,2020-21,2021,15,Overall,Overall,Overall,567.2,5.5,2021-04-09
+New York,EIP,2020-21,2021,15,Overall,Overall,Overall,567.8,12.4,2021-04-09
+Ohio,IHSP,2020-21,2021,15,Overall,Overall,Overall,221.1,2.3,2021-04-09
+Oregon,EIP,2020-21,2021,15,Overall,Overall,Overall,211.7,3.7,2021-04-09
+Georgia,EIP,2020-21,2021,15,Overall,Overall,Overall,666.9,9.4,2021-04-09
+California,EIP,2020-21,2021,15,Overall,Overall,Overall,358.9,2.8,2021-04-09
+Colorado,EIP,2020-21,2021,15,Overall,Overall,Overall,499.5,9.2,2021-04-09
+Connecticut,EIP,2020-21,2021,15,Overall,Overall,Overall,870.3,15.3,2021-04-09
+Connecticut,EIP,2020-21,2021,16,Overall,Overall,Overall,883.3,13,2021-04-16
+Colorado,EIP,2020-21,2021,16,Overall,Overall,Overall,508.9,9.5,2021-04-16
+California,EIP,2020-21,2021,16,Overall,Overall,Overall,361.6,2.7,2021-04-16
+Georgia,EIP,2020-21,2021,16,Overall,Overall,Overall,676.7,9.9,2021-04-16
+Oregon,EIP,2020-21,2021,16,Overall,Overall,Overall,217.3,5.6,2021-04-16
+Ohio,IHSP,2020-21,2021,16,Overall,Overall,Overall,222.9,1.8,2021-04-16
+New York,EIP,2020-21,2021,16,Overall,Overall,Overall,579.1,11.3,2021-04-16
+New Mexico,EIP,2020-21,2021,16,Overall,Overall,Overall,572.2,5,2021-04-16
+Minnesota,EIP,2020-21,2021,16,Overall,Overall,Overall,542.8,11.8,2021-04-16
+Michigan,IHSP,2020-21,2021,16,Overall,Overall,Overall,523.8,23.4,2021-04-16
+Maryland,EIP,2020-21,2021,16,Overall,Overall,Overall,661.3,12.8,2021-04-16
+Utah,IHSP,2020-21,2021,16,Overall,Overall,Overall,451,3.9,2021-04-16
+Tennessee,EIP,2020-21,2021,16,Overall,Overall,Overall,676.6,6.8,2021-04-16
+Iowa,IHSP,2020-21,2021,16,Overall,Overall,Overall,661.4,3.8,2021-04-16
+Iowa,IHSP,2020-21,2021,17,Overall,Overall,Overall,662.2,0.8,2021-04-23
+Tennessee,EIP,2020-21,2021,17,Overall,Overall,Overall,681.8,5.2,2021-04-23
+Utah,IHSP,2020-21,2021,17,Overall,Overall,Overall,455.3,4.2,2021-04-23
+Maryland,EIP,2020-21,2021,17,Overall,Overall,Overall,671.2,9.9,2021-04-23
+Michigan,IHSP,2020-21,2021,17,Overall,Overall,Overall,537.6,13.9,2021-04-23
+Minnesota,EIP,2020-21,2021,17,Overall,Overall,Overall,553.6,10.7,2021-04-23
+New Mexico,EIP,2020-21,2021,17,Overall,Overall,Overall,579,6.8,2021-04-23
+New York,EIP,2020-21,2021,17,Overall,Overall,Overall,589.6,10.5,2021-04-23
+Ohio,IHSP,2020-21,2021,17,Overall,Overall,Overall,224.8,1.9,2021-04-23
+Oregon,EIP,2020-21,2021,17,Overall,Overall,Overall,222.4,5.1,2021-04-23
+Georgia,EIP,2020-21,2021,17,Overall,Overall,Overall,685.3,8.6,2021-04-23
+California,EIP,2020-21,2021,17,Overall,Overall,Overall,364.7,3.1,2021-04-23
+Colorado,EIP,2020-21,2021,17,Overall,Overall,Overall,519.4,10.5,2021-04-23
+Connecticut,EIP,2020-21,2021,17,Overall,Overall,Overall,894.6,11.3,2021-04-23
+Connecticut,EIP,2020-21,2021,18,Overall,Overall,Overall,904.3,9.6,2021-04-30
+Colorado,EIP,2020-21,2021,18,Overall,Overall,Overall,530,10.6,2021-04-30
+California,EIP,2020-21,2021,18,Overall,Overall,Overall,367.5,2.8,2021-04-30
+Georgia,EIP,2020-21,2021,18,Overall,Overall,Overall,692.4,7,2021-04-30
+Oregon,EIP,2020-21,2021,18,Overall,Overall,Overall,227.6,5.2,2021-04-30
+Ohio,IHSP,2020-21,2021,18,Overall,Overall,Overall,226.7,1.9,2021-04-30
+New York,EIP,2020-21,2021,18,Overall,Overall,Overall,599.5,9.9,2021-04-30
+New Mexico,EIP,2020-21,2021,18,Overall,Overall,Overall,584.5,5.4,2021-04-30
+Minnesota,EIP,2020-21,2021,18,Overall,Overall,Overall,562.6,9.1,2021-04-30
+Michigan,IHSP,2020-21,2021,18,Overall,Overall,Overall,550.7,13.1,2021-04-30
+Maryland,EIP,2020-21,2021,18,Overall,Overall,Overall,679.9,8.8,2021-04-30
+Tennessee,EIP,2020-21,2021,18,Overall,Overall,Overall,686.4,4.6,2021-04-30
+Utah,IHSP,2020-21,2021,18,Overall,Overall,Overall,459.1,3.9,2021-04-30
+Iowa,IHSP,2020-21,2021,18,Overall,Overall,Overall,663,0.8,2021-04-30
+Iowa,IHSP,2020-21,2021,19,Overall,Overall,Overall,666.8,3.8,2021-05-07
+Tennessee,EIP,2020-21,2021,19,Overall,Overall,Overall,690.8,4.4,2021-05-07
+Utah,IHSP,2020-21,2021,19,Overall,Overall,Overall,464,4.8,2021-05-07
+Maryland,EIP,2020-21,2021,19,Overall,Overall,Overall,685.9,6,2021-05-07
+Michigan,IHSP,2020-21,2021,19,Overall,Overall,Overall,560,9.3,2021-05-07
+Minnesota,EIP,2020-21,2021,19,Overall,Overall,Overall,569.9,7.3,2021-05-07
+New Mexico,EIP,2020-21,2021,19,Overall,Overall,Overall,589.6,5.1,2021-05-07
+New York,EIP,2020-21,2021,19,Overall,Overall,Overall,607.6,8.1,2021-05-07
+Ohio,IHSP,2020-21,2021,19,Overall,Overall,Overall,227.7,1,2021-05-07
+Oregon,EIP,2020-21,2021,19,Overall,Overall,Overall,232.3,4.7,2021-05-07
+Georgia,EIP,2020-21,2021,19,Overall,Overall,Overall,698.4,6,2021-05-07
+California,EIP,2020-21,2021,19,Overall,Overall,Overall,370,2.5,2021-05-07
+Colorado,EIP,2020-21,2021,19,Overall,Overall,Overall,538.2,8.3,2021-05-07
+Connecticut,EIP,2020-21,2021,19,Overall,Overall,Overall,908.5,4.2,2021-05-07
+Connecticut,EIP,2020-21,2021,20,Overall,Overall,Overall,912.6,4.1,2021-05-14
+Colorado,EIP,2020-21,2021,20,Overall,Overall,Overall,545.8,7.5,2021-05-14
+California,EIP,2020-21,2021,20,Overall,Overall,Overall,372,2,2021-05-14
+Georgia,EIP,2020-21,2021,20,Overall,Overall,Overall,704.3,5.9,2021-05-14
+Oregon,EIP,2020-21,2021,20,Overall,Overall,Overall,236,3.7,2021-05-14
+Ohio,IHSP,2020-21,2021,20,Overall,Overall,Overall,229,1.4,2021-05-14
+New York,EIP,2020-21,2021,20,Overall,Overall,Overall,615.1,7.5,2021-05-14
+New Mexico,EIP,2020-21,2021,20,Overall,Overall,Overall,596.1,6.5,2021-05-14
+Minnesota,EIP,2020-21,2021,20,Overall,Overall,Overall,576,6.1,2021-05-14
+Michigan,IHSP,2020-21,2021,20,Overall,Overall,Overall,566,6,2021-05-14
+Maryland,EIP,2020-21,2021,20,Overall,Overall,Overall,690,4.1,2021-05-14
+Tennessee,EIP,2020-21,2021,20,Overall,Overall,Overall,694.7,3.9,2021-05-14
+Utah,IHSP,2020-21,2021,20,Overall,Overall,Overall,467.5,3.5,2021-05-14
+Iowa,IHSP,2020-21,2021,20,Overall,Overall,Overall,669.8,3,2021-05-14
+Iowa,IHSP,2020-21,2021,21,Overall,Overall,Overall,670.6,0.8,2021-05-21
+Tennessee,EIP,2020-21,2021,21,Overall,Overall,Overall,697.2,2.5,2021-05-21
+Utah,IHSP,2020-21,2021,21,Overall,Overall,Overall,470.8,3.3,2021-05-21
+Maryland,EIP,2020-21,2021,21,Overall,Overall,Overall,693.2,3.1,2021-05-21
+Michigan,IHSP,2020-21,2021,21,Overall,Overall,Overall,570,4.1,2021-05-21
+Minnesota,EIP,2020-21,2021,21,Overall,Overall,Overall,580.5,4.6,2021-05-21
+New Mexico,EIP,2020-21,2021,21,Overall,Overall,Overall,599.9,3.7,2021-05-21
+New York,EIP,2020-21,2021,21,Overall,Overall,Overall,621,5.9,2021-05-21
+Ohio,IHSP,2020-21,2021,21,Overall,Overall,Overall,230.5,1.5,2021-05-21
+Oregon,EIP,2020-21,2021,21,Overall,Overall,Overall,239.5,3.5,2021-05-21
+Georgia,EIP,2020-21,2021,21,Overall,Overall,Overall,708.8,4.6,2021-05-21
+California,EIP,2020-21,2021,21,Overall,Overall,Overall,373.5,1.5,2021-05-21
+Colorado,EIP,2020-21,2021,21,Overall,Overall,Overall,551.4,5.7,2021-05-21
+Connecticut,EIP,2020-21,2021,21,Overall,Overall,Overall,916.5,3.9,2021-05-21
+Connecticut,EIP,2020-21,2021,22,Overall,Overall,Overall,919.2,2.7,2021-05-28
+Colorado,EIP,2020-21,2021,22,Overall,Overall,Overall,555.3,3.9,2021-05-28
+California,EIP,2020-21,2021,22,Overall,Overall,Overall,375,1.5,2021-05-28
+Georgia,EIP,2020-21,2021,22,Overall,Overall,Overall,712.2,3.4,2021-05-28
+Oregon,EIP,2020-21,2021,22,Overall,Overall,Overall,242,2.5,2021-05-28
+Ohio,IHSP,2020-21,2021,22,Overall,Overall,Overall,231.7,1.2,2021-05-28
+New York,EIP,2020-21,2021,22,Overall,Overall,Overall,624.2,3.2,2021-05-28
+New Mexico,EIP,2020-21,2021,22,Overall,Overall,Overall,604,4.1,2021-05-28
+Minnesota,EIP,2020-21,2021,22,Overall,Overall,Overall,583.7,3.2,2021-05-28
+Michigan,IHSP,2020-21,2021,22,Overall,Overall,Overall,573.1,3,2021-05-28
+Maryland,EIP,2020-21,2021,22,Overall,Overall,Overall,695.5,2.4,2021-05-28
+Utah,IHSP,2020-21,2021,22,Overall,Overall,Overall,474.7,4,2021-05-28
+Tennessee,EIP,2020-21,2021,22,Overall,Overall,Overall,699.1,1.9,2021-05-28
+Iowa,IHSP,2020-21,2021,22,Overall,Overall,Overall,675.9,5.3,2021-05-28
+Iowa,IHSP,2020-21,2021,23,Overall,Overall,Overall,680.5,4.6,2021-06-04
+Tennessee,EIP,2020-21,2021,23,Overall,Overall,Overall,701.2,2.2,2021-06-04
+Utah,IHSP,2020-21,2021,23,Overall,Overall,Overall,479,4.2,2021-06-04
+Maryland,EIP,2020-21,2021,23,Overall,Overall,Overall,697.3,1.8,2021-06-04
+Michigan,IHSP,2020-21,2021,23,Overall,Overall,Overall,574.6,1.5,2021-06-04
+Minnesota,EIP,2020-21,2021,23,Overall,Overall,Overall,586.6,2.8,2021-06-04
+New Mexico,EIP,2020-21,2021,23,Overall,Overall,Overall,607.7,3.7,2021-06-04
+New York,EIP,2020-21,2021,23,Overall,Overall,Overall,627.1,2.9,2021-06-04
+Ohio,IHSP,2020-21,2021,23,Overall,Overall,Overall,232.2,0.5,2021-06-04
+Oregon,EIP,2020-21,2021,23,Overall,Overall,Overall,244.4,2.4,2021-06-04
+Georgia,EIP,2020-21,2021,23,Overall,Overall,Overall,715.3,3.1,2021-06-04
+California,EIP,2020-21,2021,23,Overall,Overall,Overall,376.5,1.5,2021-06-04
+Colorado,EIP,2020-21,2021,23,Overall,Overall,Overall,558.2,2.9,2021-06-04
+Connecticut,EIP,2020-21,2021,23,Overall,Overall,Overall,920.5,1.3,2021-06-04
+Connecticut,EIP,2020-21,2021,24,Overall,Overall,Overall,922.7,2.3,2021-06-11
+Colorado,EIP,2020-21,2021,24,Overall,Overall,Overall,560.6,2.4,2021-06-11
+California,EIP,2020-21,2021,24,Overall,Overall,Overall,378.2,1.7,2021-06-11
+Georgia,EIP,2020-21,2021,24,Overall,Overall,Overall,717.6,2.3,2021-06-11
+Oregon,EIP,2020-21,2021,24,Overall,Overall,Overall,246.5,2.1,2021-06-11
+Ohio,IHSP,2020-21,2021,24,Overall,Overall,Overall,232.8,0.6,2021-06-11
+New York,EIP,2020-21,2021,24,Overall,Overall,Overall,628.7,1.5,2021-06-11
+New Mexico,EIP,2020-21,2021,24,Overall,Overall,Overall,610.7,3,2021-06-11
+Minnesota,EIP,2020-21,2021,24,Overall,Overall,Overall,588.2,1.7,2021-06-11
+Michigan,IHSP,2020-21,2021,24,Overall,Overall,Overall,575.9,1.3,2021-06-11
+Maryland,EIP,2020-21,2021,24,Overall,Overall,Overall,698.8,1.4,2021-06-11
+Utah,IHSP,2020-21,2021,24,Overall,Overall,Overall,482.5,3.5,2021-06-11
+Tennessee,EIP,2020-21,2021,24,Overall,Overall,Overall,703.3,2,2021-06-11
+Iowa,IHSP,2020-21,2021,24,Overall,Overall,Overall,682,1.5,2021-06-11
+Iowa,IHSP,2020-21,2021,25,Overall,Overall,Overall,688.9,6.9,2021-06-18
+Tennessee,EIP,2020-21,2021,25,Overall,Overall,Overall,704,0.8,2021-06-18
+Utah,IHSP,2020-21,2021,25,Overall,Overall,Overall,486.6,4.1,2021-06-18
+Maryland,EIP,2020-21,2021,25,Overall,Overall,Overall,699.7,1,2021-06-18
+Michigan,IHSP,2020-21,2021,25,Overall,Overall,Overall,577.2,1.4,2021-06-18
+Minnesota,EIP,2020-21,2021,25,Overall,Overall,Overall,590.1,1.8,2021-06-18
+New Mexico,EIP,2020-21,2021,25,Overall,Overall,Overall,613.2,2.5,2021-06-18
+New York,EIP,2020-21,2021,25,Overall,Overall,Overall,629.9,1.2,2021-06-18
+Ohio,IHSP,2020-21,2021,25,Overall,Overall,Overall,233.2,0.4,2021-06-18
+Oregon,EIP,2020-21,2021,25,Overall,Overall,Overall,249,2.5,2021-06-18
+Georgia,EIP,2020-21,2021,25,Overall,Overall,Overall,719.8,2.2,2021-06-18
+California,EIP,2020-21,2021,25,Overall,Overall,Overall,380.3,2.1,2021-06-18
+Colorado,EIP,2020-21,2021,25,Overall,Overall,Overall,562.6,2,2021-06-18
+Connecticut,EIP,2020-21,2021,25,Overall,Overall,Overall,924.4,1.7,2021-06-18
+Connecticut,EIP,2020-21,2021,26,Overall,Overall,Overall,926.1,1.7,2021-06-25
+Colorado,EIP,2020-21,2021,26,Overall,Overall,Overall,565,2.4,2021-06-25
+California,EIP,2020-21,2021,26,Overall,Overall,Overall,382.6,2.3,2021-06-25
+Georgia,EIP,2020-21,2021,26,Overall,Overall,Overall,721.7,1.9,2021-06-25
+Oregon,EIP,2020-21,2021,26,Overall,Overall,Overall,250.8,1.8,2021-06-25
+Ohio,IHSP,2020-21,2021,26,Overall,Overall,Overall,233.5,0.3,2021-06-25
+New York,EIP,2020-21,2021,26,Overall,Overall,Overall,630.7,0.9,2021-06-25
+New Mexico,EIP,2020-21,2021,26,Overall,Overall,Overall,614.9,1.8,2021-06-25
+Minnesota,EIP,2020-21,2021,26,Overall,Overall,Overall,592.1,2,2021-06-25
+Michigan,IHSP,2020-21,2021,26,Overall,Overall,Overall,578.3,1,2021-06-25
+Maryland,EIP,2020-21,2021,26,Overall,Overall,Overall,700.5,0.8,2021-06-25
+Utah,IHSP,2020-21,2021,26,Overall,Overall,Overall,490.4,3.8,2021-06-25
+Tennessee,EIP,2020-21,2021,26,Overall,Overall,Overall,705,1,2021-06-25
+Iowa,IHSP,2020-21,2021,26,Overall,Overall,Overall,697.3,8.4,2021-06-25
+Iowa,IHSP,2020-21,2021,27,Overall,Overall,Overall,700.3,3,2021-07-02
+Tennessee,EIP,2020-21,2021,27,Overall,Overall,Overall,707.3,2.3,2021-07-02
+Utah,IHSP,2020-21,2021,27,Overall,Overall,Overall,495.2,4.8,2021-07-02
+Maryland,EIP,2020-21,2021,27,Overall,Overall,Overall,701.8,1.3,2021-07-02
+Michigan,IHSP,2020-21,2021,27,Overall,Overall,Overall,579.1,0.9,2021-07-02
+Minnesota,EIP,2020-21,2021,27,Overall,Overall,Overall,594.2,2.1,2021-07-02
+New Mexico,EIP,2020-21,2021,27,Overall,Overall,Overall,618.3,3.3,2021-07-02
+New York,EIP,2020-21,2021,27,Overall,Overall,Overall,632.5,1.8,2021-07-02
+Ohio,IHSP,2020-21,2021,27,Overall,Overall,Overall,233.9,0.4,2021-07-02
+Oregon,EIP,2020-21,2021,27,Overall,Overall,Overall,251.7,0.9,2021-07-02
+Georgia,EIP,2020-21,2021,27,Overall,Overall,Overall,725.6,3.8,2021-07-02
+California,EIP,2020-21,2021,27,Overall,Overall,Overall,386.1,3.5,2021-07-02
+Colorado,EIP,2020-21,2021,27,Overall,Overall,Overall,567.5,2.5,2021-07-02
+Connecticut,EIP,2020-21,2021,27,Overall,Overall,Overall,927.9,1.9,2021-07-02
+Connecticut,EIP,2020-21,2021,28,Overall,Overall,Overall,930.1,2.2,2021-07-09
+Colorado,EIP,2020-21,2021,28,Overall,Overall,Overall,570.2,2.8,2021-07-09
+California,EIP,2020-21,2021,28,Overall,Overall,Overall,390.9,4.8,2021-07-09
+Georgia,EIP,2020-21,2021,28,Overall,Overall,Overall,730.5,5,2021-07-09
+Oregon,EIP,2020-21,2021,28,Overall,Overall,Overall,252.5,0.8,2021-07-09
+Ohio,IHSP,2020-21,2021,28,Overall,Overall,Overall,234.6,0.7,2021-07-09
+New York,EIP,2020-21,2021,28,Overall,Overall,Overall,634.3,1.8,2021-07-09
+New Mexico,EIP,2020-21,2021,28,Overall,Overall,Overall,621,2.7,2021-07-09
+Minnesota,EIP,2020-21,2021,28,Overall,Overall,Overall,596,1.9,2021-07-09
+Michigan,IHSP,2020-21,2021,28,Overall,Overall,Overall,580.6,1.4,2021-07-09
+Maryland,EIP,2020-21,2021,28,Overall,Overall,Overall,703.5,1.7,2021-07-09
+Tennessee,EIP,2020-21,2021,28,Overall,Overall,Overall,711.8,4.5,2021-07-09
+Utah,IHSP,2020-21,2021,28,Overall,Overall,Overall,501.7,6.5,2021-07-09
+Iowa,IHSP,2020-21,2021,28,Overall,Overall,Overall,703.4,3,2021-07-09
+Iowa,IHSP,2020-21,2021,29,Overall,Overall,Overall,713.3,9.9,2021-07-16
+Tennessee,EIP,2020-21,2021,29,Overall,Overall,Overall,718,6.2,2021-07-16
+Utah,IHSP,2020-21,2021,29,Overall,Overall,Overall,507.8,6.1,2021-07-16
+Maryland,EIP,2020-21,2021,29,Overall,Overall,Overall,705.4,1.9,2021-07-16
+Michigan,IHSP,2020-21,2021,29,Overall,Overall,Overall,582.6,2.1,2021-07-16
+Minnesota,EIP,2020-21,2021,29,Overall,Overall,Overall,598.4,2.3,2021-07-16
+New Mexico,EIP,2020-21,2021,29,Overall,Overall,Overall,623.2,2.2,2021-07-16
+New York,EIP,2020-21,2021,29,Overall,Overall,Overall,635.7,1.3,2021-07-16
+Ohio,IHSP,2020-21,2021,29,Overall,Overall,Overall,235.3,0.7,2021-07-16
+Oregon,EIP,2020-21,2021,29,Overall,Overall,Overall,252.9,0.4,2021-07-16
+Georgia,EIP,2020-21,2021,29,Overall,Overall,Overall,733.7,3.2,2021-07-16
+California,EIP,2020-21,2021,29,Overall,Overall,Overall,396.7,5.9,2021-07-16
+Colorado,EIP,2020-21,2021,29,Overall,Overall,Overall,573.1,2.9,2021-07-16
+Connecticut,EIP,2020-21,2021,29,Overall,Overall,Overall,932.8,2.7,2021-07-16
