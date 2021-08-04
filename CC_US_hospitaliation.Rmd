@@ -27,23 +27,26 @@ These data (COVID hospitalization rates/10^6 population by US states are acquire
 There is a download data button which povides a csv file. I can't see the filename, so I can't pull it directly, but I have downloaded it manually and placed it in the 'data' folder with name:
 
 ```{r}
-fs::dir_info("data") %>% select(path) -> infile
+fs::dir_info("data") %>% select(path) %>% filter(str_detect(path,"All")) -> infile
 print(infile$path)
 
 ```
 
-Note that the file has problems. 
+__Note that the file has problems. __
 
 1) There are different kinds of data in this CSV file - some are 'micro-data' a record for a specific race/age/sex/state/week and then there are summary records, all mixed in together. 
+
 2) The date fields for some of the summary records are wrong, so, approach carefully. 
+
 3) Frustratingly, there are some textual notes both in the top two lines and at the bottom of the csv file. It is easy to remove the top two lines, and start with the variable name list in row 3, but the length of this file will change across iterations, so.... we needed something more sophisticated. The boundary between end of the data and start of the notes is a line consisteing only of the string "Disclaimer" and a blank line before that. 
+
 To not read in these notes into the dataset, I find that 'disclaimer' string, find the associated line number, and read the csv up to 2 lines before the "Disclaimer" line.  Not perfect, but... good enough. 
 
 NB: If they change that string, this will fail, but I think this is likely to be a stable solution if the dataset is updated.
 
 ## Data Wrangling
 
-### The file is `r infile$path` and the project path is `r here::here()`
+The file is `r infile$path` and the project path is `r here::here()`
 
 ### Find the bottom of the data
 
@@ -65,6 +68,7 @@ We stop reading the data at row `r disclaimer_line_number`.
 ### Read the file
 
 ```{r}
+
 rawdata <- readr::read_csv(here::here("data/COVID-19Surveillance_All_Data.csv"),
                            skip=2,
                            n_max=disclaimer_line_number-2-3,
@@ -161,7 +165,7 @@ The distinct age-groups are:
 Let's look at age-collapsed weekly rates, by state for COVID+ hospitalizations:
 
 ```{r}
-working_dataset %>% ggplot(aes(x=derived_date, y=weekly_rate))+
+working_dataset_no_ageg %>% ggplot(aes(x=derived_date, y=weekly_rate))+
   geom_line(aes(color=catchment))+
   facet_wrap(~catchment, ncol=2)+
   guides(color="none")+
